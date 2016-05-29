@@ -1,0 +1,22 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>Climate Citizen</title>
+    <description>
+      xxx yyy started the Citizens Climate Lobby for a revenue-neutral
+      solution to addressing climate change.
+    </description>
+    <sceneshot src="/cagop-apr2016/climate-citizen/TrumpDemos042916-438.jpg"/>
+  </sceneprops>
+
+  <audio src="/cagop-apr2016/climate-citizen/Climate-Citizen.mp3">
+    <photo src="/cagop-apr2016/climate-citizen/TrumpDemos042916-434.jpg"/>
+    <photo src="/cagop-apr2016/climate-citizen/d7_20160524_1.jpg"/>
+    <photo src="/cagop-apr2016/climate-citizen/TrumpDemos042916-436.jpg"/>
+    <photo src="/cagop-apr2016/climate-citizen/TrumpDemos042916-441.jpg"/>
+    <photo src="/cagop-apr2016/climate-citizen/TrumpDemos042916-439.jpg"/>
+    <photo src="/cagop-apr2016/climate-citizen/d7_20160524_2.jpg"/>
+  </audio>
+
+</scene>

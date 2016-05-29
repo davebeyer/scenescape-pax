@@ -1,0 +1,26 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>A lie will travel half-way around the world</title>
+    <description>
+       ... while truth is still tying its shoes (Mark Twain).   
+       Xxx Yyy is a teacher in Tracy, California, organizing
+       a social-media based ground-game to support Trump in California.
+    </description>
+    <sceneshot src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-460.jpg" />
+  </sceneprops>
+
+  <audio src="/cagop-apr2016/trump-teacher-guy/trump-teacher-guy.mp3" volume="0.8">
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-443.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-444.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-445.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-446.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-449.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-450.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-451.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-454.jpg" />
+    <photo src="/cagop-apr2016/trump-teacher-guy/TrumpDemos042916-458.jpg" />
+  </audio>
+
+</scene>
