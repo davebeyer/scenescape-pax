@@ -1,6 +1,6 @@
 <scene stage="listing">
   <sceneprops>
-    <title>Clinton "Organizing Event" in San Jose, June 2016</title>
+    <title>Clinton "Organizing Event" in San Jose, May 2016</title>
   </sceneprops>
 
   {% insert t_scenelisting() %}

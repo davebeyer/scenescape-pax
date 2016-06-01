@@ -1,6 +1,6 @@
 <scene stage="listing">
   <sceneprops>
-    <title>Sanders Rally at the County Fairgrounds in San Jose, June 2016</title>
+    <title>Sanders Rally at the County Fairgrounds in San Jose, May 2016</title>
   </sceneprops>
 
   {% insert t_scenelisting() %}
