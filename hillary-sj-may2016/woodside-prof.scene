@@ -6,14 +6,14 @@
     <description>
       XXX is Hillary supporter from Woodside, California.
     </description>
-    <sceneshot src="/hillary-may2016/woodside-prof/" />
+    <sceneshot src="/hillary-sj-may2016/woodside-prof/" />
   </sceneprops>
 
-  <audio src="/hillary-may2016/woodside-prof/woodside-prof.mp4" volume="0.8">
-    <photo src="/hillary-may2016/woodside-prof/" />
-    <photo src="/hillary-may2016/woodside-prof/" />
-    <photo src="/hillary-may2016/woodside-prof/" />
-    <photo src="/hillary-may2016/woodside-prof/" />
-    <photo src="/hillary-may2016/woodside-prof/" />
+  <audio src="/hillary-sj-may2016/woodside-prof/woodside-prof.mp4" volume="0.8">
+    <photo src="/hillary-sj-may2016/woodside-prof/" />
+    <photo src="/hillary-sj-may2016/woodside-prof/" />
+    <photo src="/hillary-sj-may2016/woodside-prof/" />
+    <photo src="/hillary-sj-may2016/woodside-prof/" />
+    <photo src="/hillary-sj-may2016/woodside-prof/" />
   </audio>
 </scene>
