@@ -1,3 +1,3 @@
 # Portrait of America at the CrossRoads (PAX)
 
-TBD
+Like all SceneScapes, this will be automatically updated periodically by the server
