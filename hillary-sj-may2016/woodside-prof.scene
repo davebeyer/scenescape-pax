@@ -9,7 +9,7 @@
     <sceneshot src="/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
   </sceneprops>
 
-  <video src="/hillary-sj-may2016/woodside-prof/woodside-prof.mp4" volume="0.8">
+  <video src="/hillary-sj-may2016/woodside-prof/woodside-prof_sm.mp4" volume="0.8">
     <gap duration="18"/>
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-1.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-7.jpg" />

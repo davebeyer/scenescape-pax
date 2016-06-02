@@ -1,0 +1,24 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>Trillions for war but crumbling at home</title>
+    <description>
+      Xxxx, with his wife and daughter, attended the Sanders rally at the 
+      San Jose California County Fairgrounds, May 2016.
+    </description>
+    <sceneshot src="/sanders-sj-may2016/sanders-family/d7_20160518_750904.jpg"/>
+  </sceneprops>
+
+  <video src="/sanders-sj-may2016/sanders-family/sanders-family_sm.mp4">
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750904.jpg"/>
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750906.jpg"/>
+    <gap start="12" duration="19"/>  
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750907.jpg"/>
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750908.jpg"/>
+    <gap start="48" duration="15"/>  
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750904.jpg"/>
+    <photo src="/sanders-sj-may2016/sanders-family/d7_20160518_750906.jpg"/>
+  </video>
+                                                    
+</scene>
