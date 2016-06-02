@@ -4,16 +4,30 @@
   <sceneprops>
     <title>A Quality Man believes in Equality</title>
     <description>
-      XXX is Hillary supporter from Woodside, California.
+      Diane is a Hillary supporter from Woodside, California.
     </description>
-    <sceneshot src="/hillary-sj-may2016/woodside-prof/" />
+    <sceneshot src="/hillary-sj-may2016/woodside-prof/WoodsideProf-13" />
   </sceneprops>
 
   <audio src="/hillary-sj-may2016/woodside-prof/woodside-prof.mp4" volume="0.8">
-    <photo src="/hillary-sj-may2016/woodside-prof/" />
-    <photo src="/hillary-sj-may2016/woodside-prof/" />
-    <photo src="/hillary-sj-may2016/woodside-prof/" />
-    <photo src="/hillary-sj-may2016/woodside-prof/" />
-    <photo src="/hillary-sj-may2016/woodside-prof/" />
+    <photo src=""            duration="14"/>
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-1" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-2" />
+
+    <photo src="" start="23" duration="7"/>
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-3" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-4" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-5" />
+
+    <photo src="" start="44" duration="6"/>
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-6" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-7" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-8" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-9" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-10" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-11" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-12" />
+
+    <photo src="" start="105" duration="6"/>
   </audio>
 </scene>
