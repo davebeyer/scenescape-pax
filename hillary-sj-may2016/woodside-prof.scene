@@ -10,16 +10,16 @@
   </sceneprops>
 
   <video src="/hillary-sj-may2016/woodside-prof/woodside-prof_sm.mp4" volume="0.8">
-    <gap duration="18"/>
+    <gap duration="13"/>
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-1.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-7.jpg" />
 
-    <gap start="23" duration="16"/>
+    <gap start="23" duration="9"/>
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-13.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-5.jpg" />
 
-    <gap start="44" duration="6"/>
+    <gap start="44" duration="8"/>
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-3.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-6.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-8.jpg" />
