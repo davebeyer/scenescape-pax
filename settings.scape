@@ -4,29 +4,42 @@
   </title>
 
   <introduction>
+    <style>
+      .big { font-weight: bold; font-size: 2.2rem; }
+    </style>
 
     <p>
-    <b>Talk with anyone</b> who has lived through any presidential election in the past 60 years, including 1968, 
-    and they will tell you that there is no precedent for what is taking place during the American election
-    of 2016.  
+      <b class="big">Talk with anyone</b> 
+      who has lived through any presidential election in the past 60
+      years, including 1968, and they will tell you that there is no
+      precedent for what is taking place during the American election
+      of 2016.
     </p>
 
     <p>
-    <b>Never before</b>...
+      <b class="big">Never before</b>...
     </p>
 
     <p>
-    <b>It's a big country,</b> both geographically and ideologically.  One might have hoped that with 
-    the ongoing revolution in communication, that empathy and understanding of people of 
-    different views might benefit.  But with people now able to surround themselves in their
-    own information bubbles, it appears the opposite is happening.
+      <b class="big">It's a big country,</b> 
+      geographically and ideologically.  But given our current
+      information revolution, one may have hoped that empathy and
+      appreciation of different conditions and perspectives could
+      benefit, and common understandings could emerge.  However, with
+      the coincident and seductive new opportunity for people to
+      surround themselves in their own information bubbles, it appears
+      the opposite may be happening.
     </p>
 
     <p>
-    <b>With Portrait of America at the Crossroads,</b> we hope to gain and share some understanding 
-    of the people involved in this election, with an aim toward unique and original perspectives and
-    experiences, i.e., stories and opinions from people's own heads, rather than recitations
-    of what they've heard from the talking heads in their bubble.
+      <b class="big">With Portrait of America at the Crossroads,</b> 
+      we hope to gain and share some understanding of the feelings and
+      passions of everyday people who find themselves on all sides of
+      the debates of our times,
+      with an aim toward capturing unique and original perspectives
+      and experiences, i.e., stories and opinions from people's own
+      heads, while doing our best to avoid the simple recitations of the
+      talking heads from our respective information bubbles.
     </p>
 
   </introduction>
