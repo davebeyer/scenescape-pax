@@ -3,6 +3,8 @@
     Portrait of America at the Crossroads
   </title>
 
+  <backgroundphoto src="/general/flag-on-shed.jpg"/>
+
   <introduction>
     <style>
       .big { font-weight: bold; font-size: 2.2rem; }
@@ -34,24 +36,29 @@
 
     <p>
       <b class="big">With Portrait of America at the Crossroads,</b>
-      we hope to gain and share some understanding of the feelings and
-      passions of everyday people who find themselves on all sides of
-      the debates of our times, with an aim toward capturing unique
-      and original perspectives and experiences, i.e., stories and
-      opinions from people's own heads, while doing our best to avoid
-      the simple recitations of the talking heads from our respective
-      information bubbles.
+      we hope to gain and share some understanding of the feelings,
+      passions, and lives of the people who don't ordinarily 
+      command a microphone, with an
+      aim toward unique and original perspectives and
+      experiences, i.e., stories and opinions from people's own heads,
+      while doing our best to avoid the simple recitations of the
+      talking heads from our respective information bubbles.  
     </p>
 
+    <p>
+      So please browse, take your time, and let us know what you think:
+      [Facebook] & [Instagram]!
+    </p>
+
+    <!--
     <p>
       <b class="big">Perhaps we can find insight,</b>into how there
       could be so many looking for steady progress, yet so many others
       that yearn for a political revolution, and still so many others
       that see the need for an angry wrecking ball.
     </p>
+     -->
 
   </introduction>
-
-  <backgroundphoto src="/general/flag-on-shed.jpg"/>
 
 </scenescape>
