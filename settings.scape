@@ -5,6 +5,10 @@
 
   <backgroundphoto src="/general/flag-on-shed.jpg"/>
 
+  <!-- TODO: automatically added by server when serving this file
+       for scenescapes for which a sprite has been generated -->
+  <scenesprite src="/general/sprite.png"/>  
+
   <introduction>
     <style>
       .big { font-weight: bold; font-size: 2.2rem; }
