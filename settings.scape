@@ -7,7 +7,7 @@
 
   <!-- TODO: automatically added by server when serving this file
        for scenescapes for which a sprite has been generated -->
-  <scenesprite src="/general/sprite.png"/>  
+  <scenesprite src="/general/sprite.png" dim="600,400" count="70"/>  
 
   <introduction>
     <style>
@@ -41,17 +41,17 @@
     <p>
       <b class="big">With Portrait of America at the Crossroads,</b>
       we hope to gain and share some understanding of the feelings,
-      passions, and lives of the people who don't ordinarily 
+      passions, and lives of people who don't ordinarily 
       command a microphone, with an
-      aim toward unique and original perspectives and
+      aim towards unique and original perspectives and
       experiences, i.e., stories and opinions from people's own heads,
       while doing our best to avoid the simple recitations of the
       talking heads from our respective information bubbles.  
     </p>
 
     <p>
-      So please browse, take your time, and let us know what you think:
-      [Facebook] &amp; [Instagram]!
+      So please browse the gallery, take your time, and let us know what you think:
+      [Facebook], [Instagram] &amp; <a href="mailto:pax.muster@gmail.com" target="_blank">Email</a>.
     </p>
 
     <!--
