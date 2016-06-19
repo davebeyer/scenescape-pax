@@ -1,9 +1,10 @@
 <scenescape>
-  <title>
-    Portrait of America at the Crossroads
-  </title>
+  <title> Portrait of America at the Crossroads </title>
 
   <backgroundphoto src="/general/flag-on-shed.jpg"/>
+
+  <facebook   src="http://www.facebook.com/americaatthecrossroads"/>
+  <instagram  src="http://www.instagram.com/pax.gallery"/>
 
   <!-- TODO: automatically added by server when serving this file
        for scenescapes for which a sprite has been generated -->
@@ -15,6 +16,48 @@
     </style>
 
     <p>
+      <b class="big">It's a big country,</b> geographically and
+      ideologically.  But given our current information revolution,
+      one may have hoped that empathy and appreciation of different
+      conditions and perspectives could benefit, and common
+      understandings could emerge.  However, this revolution has also
+      brought the seductive opportunity for each of us to more
+      thoroughly surround and isolate ourselves in our own information
+      bubble, fueled by the political and corporate media incentives
+      to polarize.  Consequently, it appears the opposite may be
+      happening.
+    </p>
+
+    <p>
+      <b class="big">With Portrait of America at the Crossroads,</b>
+      we hope to gain and share some understanding of the feelings,
+      passions, and lives of people who don't ordinarily command a
+      microphone.  In particular, our aim is towards unique and
+      original perspectives and experiences, related to the issues and
+      debates of our time, while doing our best to avoid simple
+      recitations of the talking heads from our respective information
+      bubbles.
+    </p>
+
+    <p>
+      <b class="big">So thanks for visiting!</b> 
+      Please take your time to browse the gallery (click on the
+      stories below), and let us know what you think, on
+      <a href="http://www.instagram.com/pax.gallery" target="_blank">Instagram</a>, 
+      <a href="http://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>, &amp;
+      <a href="mailto:pax.muster@gmail.com" target="_blank">Email</a>.
+    </p>
+
+  </introduction>
+
+  <about>
+    <style>
+      .big { font-weight: bold; font-size: 2.2rem; }
+    </style>
+
+    <h1>About Portrait of America at the Crossroads (PAX)</h1>
+
+    <p>
       <b class="big">Talk with anyone</b> 
       who has lived through any presidential election in the past 60
       years, including 1968, and they will tell you that there is no
@@ -23,46 +66,52 @@
     </p>
 
     <p>
-      <b class="big">Never before</b>...
+      <b class="big">Polarization,</b> real or perceived, of Democrat
+      vs. Republican, liberal vs. conservative, privileged vs. the
+      disempowered, consumes virtually nearly every political dialogue
+      to an extent rarely seen.  Citizens on all sides express
+      feelings of frustration of being left behind and without a
+      voice.  Politicians and the media have cashed in by stoking the
+      flames of misinformation, suspicions, and fear, inevitably
+      cultivating to exagerated or irrational anger among voters, and
+      leading to representatives incapable of compromise and governing.
     </p>
 
     <p>
-      <b class="big">It's a big country,</b> 
-      geographically and ideologically.  But given our current
-      information revolution, one may have hoped that empathy and
-      appreciation of different conditions and perspectives could
-      benefit, and common understandings could emerge.  However, this
-      revolution has also brought the seductive opportunity for people to more
-      thoroughly surround themselves in their own information bubbles,
-      fueled by the political and corporate media incentives to polarize,
-      it appears the opposite may be happening.
+      <b class="big">PAX intends to build bridges,</b> however slight,
+      between the edges of these chasms, with an eye and ear toward
+      the social and cultural rail of contemporary America.  PAX will
+      look past the rhetoric spewing from the talking heads and
+      instead look for unique and original stories and perspectives,
+      as well as those commonly held hopes and values that reflect the
+      passionate patriotism embraced by all sides.  Although our
+      chasms of division are constantly being dug deeper by the power
+      &amp; financial interests benefiting from them, the edges
+      are not as far apart as we are led to believe.  Perhaps our
+      bridges can provide a better angle to expose the diggers far
+      below.
     </p>
 
     <p>
-      <b class="big">With Portrait of America at the Crossroads,</b>
-      we hope to gain and share some understanding of the feelings,
-      passions, and lives of people who don't ordinarily 
-      command a microphone, with an
-      aim towards unique and original perspectives and
-      experiences, i.e., stories and opinions from people's own heads,
-      while doing our best to avoid the simple recitations of the
-      talking heads from our respective information bubbles.  
+      <b class="big">We are</b> journalists, photographers, and
+      technologists, committed to prividing an unflinching, unbiased
+      view of the people we meet and events we encounter.  Watch this
+      PAX gallery over the coming weeks and months for new scenes and
+      stories, and follow us on 
+      <a href="http://www.instagram.com/pax.gallery" target="_blank">Instagram</a> and
+      <a href="http://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>.
+      Also, you can contact us by email at
+      <a href="mailto:pax.muster@gmail.com" target="_blank">pax.muster@gmail.com</a>.
     </p>
 
     <p>
-      So please browse the gallery, take your time, and let us know what you think:
-      [Facebook], [Instagram] &amp; <a href="mailto:pax.muster@gmail.com" target="_blank">Email</a>.
+      This PAX Gallery is built using
+      SceneScape(TM), a new way to publish and share stories
+      combining video, photos, sounds and narrative.  For more information
+      about SceneScape, or to express interest in becoming a beta user, contact
+      <a href="mailto:info@scenescape.com" target="_blank">info@scenescape.com</a>.
     </p>
+  </about>
 
-    <!--
-    <p>
-      <b class="big">Perhaps we can find insight,</b>into how there
-      could be so many looking for steady progress, yet so many others
-      that yearn for a political revolution, and still so many others
-      that see the need for an angry wrecking ball.
-    </p>
-     -->
-
-  </introduction>
 
 </scenescape>
