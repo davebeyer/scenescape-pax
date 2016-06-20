@@ -55,7 +55,7 @@
       .big { font-weight: bold; font-size: 2.2rem; }
     </style>
 
-    <h1>About Portrait of America at the Crossroads (PAX)</h1>
+    <h1>About <br/> Portrait of America <br/> At the Crossroads (PAX)</h1>
 
     <p>
       <b class="big">Talk with anyone</b> 
@@ -94,23 +94,24 @@
 
     <p>
       <b class="big">We are</b> journalists, photographers, and
-      technologists, committed to prividing an unflinching, unbiased
+      technologists, committed to providing an unflinching, unbiased
       view of the people we meet and events we encounter.  Watch this
       PAX gallery over the coming weeks and months for new scenes and
       stories, and follow us on 
       <a href="http://www.instagram.com/pax.gallery" target="_blank">Instagram</a> and
       <a href="http://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>.
-      Also, you can contact us by email at
+      You can contact us by email at
       <a href="mailto:pax.muster@gmail.com" target="_blank">pax.muster@gmail.com</a>.
     </p>
-
-    <p>
+    <br/>
+    <br/>
+    <p><i>
       This PAX Gallery is built using
-      SceneScape(TM), a new way to publish and share stories
+      SceneScape&trade;, a new way to publish and share stories
       combining video, photos, sounds and narrative.  For more information
       about SceneScape, or to express interest in becoming a beta user, contact
       <a href="mailto:info@scenescape.com" target="_blank">info@scenescape.com</a>.
-    </p>
+    </i></p>
   </about>
 
 
