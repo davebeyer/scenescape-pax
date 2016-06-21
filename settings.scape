@@ -12,7 +12,7 @@
 
   <introduction>
     <style>
-      .big { font-weight: bold; font-size: 2.2rem; }
+      .big { font-weight: bold; font-size: 1.8rem; }
     </style>
 
     <p>
@@ -51,7 +51,7 @@
 
   <about>
     <style>
-      .big { font-weight: bold; font-size: 2.2rem; }
+      .big { font-weight: bold; font-size: 1.8rem; }
     </style>
 
     <h1>About <br/> Portrait of America <br/> At the Crossroads (PAX)</h1>
