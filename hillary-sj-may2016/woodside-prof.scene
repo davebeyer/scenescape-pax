@@ -9,25 +9,28 @@
     <sceneshot src="/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
   </sceneprops>
 
-  <video src="/hillary-sj-may2016/woodside-prof/woodside-prof_sm.mp4" volume="0.8">
-    <gap duration="13"/>
-    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-1.jpg" />
-    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-7.jpg" />
+  <video src="/hillary-sj-may2016/woodside-prof/woodside-prof_v2_sm.mp4" volume="0.8">
+    <gap duration="14"/>  
 
-    <gap start="23" duration="9"/>
-    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-13.jpg" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-7.jpg" />
+    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-1.jpg" />
+    <!-- <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-13.jpg" /> -->
+
+    <gap start="23.5" duration="11.5"/>
+
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-5.jpg" />
 
-    <gap start="44" duration="8"/>
+    <gap start="43.5" duration="13.5"/>
+
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-3.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-6.jpg" />
-    <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-8.jpg" />
+    <!-- <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-8.jpg" /> -->
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-2.jpg" />
     <!-- <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-10.jpg" /> -->
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-11.jpg" />
     <photo src="/hillary-sj-may2016/woodside-prof/WoodsideProf-12.jpg" />
 
-    <gap start="95" duration="6"/>
+    <gap start="76.5"/>
   </video>
 </scene>
