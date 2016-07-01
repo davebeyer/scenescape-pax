@@ -11,10 +11,6 @@
   <scenesprite src="/general/sprite.png" dim="600,400" count="70"/>  
 
   <introduction>
-    <style>
-      .big { font-weight: bold; font-size: 1.8rem; }
-    </style>
-
     <p>
       <b class="big">It's a big country,</b> geographically and
       ideologically.  But given our current information revolution,
@@ -50,10 +46,6 @@
   </introduction>
 
   <about>
-    <style>
-      .big { font-weight: bold; font-size: 1.8rem; }
-    </style>
-
     <h1>About <br/> Portrait of America <br/> At the Crossroads (PAX)</h1>
 
     <p>
