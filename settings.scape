@@ -1,5 +1,14 @@
 <scenescape>
   <title> Portrait of America at the Crossroads </title>
+
+  <description>
+    Motivated by the unprecedented election of 2016, PAX is an evolving,
+    multimedia gallery that attempts to capture and share the feelings,
+    passions, and the unique perspectives and experiences of a broad swath
+    of Americans who don't ordinarily command a microphone.  We invite you
+    to follow along!
+  </description>
+
   <favicon src="http://ss-m1.s3.amazonaws.com/1102/scenes/ss0-general/favicon.png"/>
 
   <backgroundphoto src="/general/flag-on-shed.jpg"/>
@@ -28,7 +37,7 @@
     <p>
       <b class="big">With Portrait of America at the Crossroads,</b>
       we hope to gain and share some understanding of the feelings,
-      passions, and lives of people who don't ordinarily command a
+      passions, and lives of Americans who don't ordinarily command a
       microphone.  In particular, our aim is towards unique and
       original perspectives and experiences, related to the issues and
       debates of our time, while doing our best to sidestep simple
