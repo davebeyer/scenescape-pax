@@ -1,11 +1,12 @@
-<scene photo-effect="fade(.5)" video-effect="fade(.5)">
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
   <sceneprops>
     <title>I believe that Trump was sent by the Holy Spirit to save our country</title>
     <description>
       Jason is a Donald Trump supporter who we met at the Trump rally
       in San Jose, June, 2016.  Jason believes that if you want to 
       get to the truth of what's happening, try watching the news with
-      the volume down, the pictures are worth a thousand words, "Don't
+      the volume down, the pictures are worth a thousand words, "don't
       listen to the BS."
     </description>
     <sceneshot src="/trump-sj-jun2016/god-inspired/TrumpPlumberChristian-4.jpg" />
