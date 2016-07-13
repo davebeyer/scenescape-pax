@@ -1,0 +1,34 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title>I was a gay, Latino, Republican</title>
+    <description>
+       John Sanchez, originally from Los Angeles, now lives in
+       Oakland.  
+       In college business school, John was a
+       trickle-down-theory Republican, but his loss of many friends
+       to AIDS and dismay at his Party's initial failure to 
+       address AIDS as a crisis, caused him to switch.
+    </description>
+    <sceneshot src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-10.jpg" />
+  </sceneprops>
+
+  <video src="/palo-alto-jun2016/gay-married-survivor/gay-married-survivor_ver2a_sm2.mp4" volume="0.8">
+    <photo src="/palo-alto-jun2016/gay-married-survivor/d7_20160617_751463.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/d7_20160617_751460.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-19.jpg" />
+    <gap start="19"/>  
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-1.jpg" start="43"/>
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-6.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-12.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-24.jpg" />
+    <gap start="63"/>
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-2.jpg" start="80"/>
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-3.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-16.jpg" />
+    <gap start="98.5"/>
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-4.jpg" start="109.5"/>
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-19.jpg" />
+    <photo src="/palo-alto-jun2016/gay-married-survivor/Gay-Survivor-20.jpg" />
+  </video>
+
+</scene>
