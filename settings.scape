@@ -18,7 +18,7 @@
 
   <!-- TODO: automatically added by server when serving this file
        for scenescapes for which a sprite has been generated -->
-  <scenesprite src="/general/sprite.png" dim="600,400" count="70"/>  
+  <scenesprite src="/general/sprite.png" dim="600,400" count="48"/>  
 
   <introduction>
     <p>
