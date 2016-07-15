@@ -20,6 +20,12 @@
        for scenescapes for which a sprite has been generated -->
   <scenesprite src="/general/sprite.png" dim="600,400" count="48"/>  
 
+  <copyright>
+    <a href="mailto:pax.muster@gmail.com" target="_blank">
+      &copy; 2016, Dave Beyer and Neal Menschel
+    </a>
+  </copyright>
+
   <introduction>
     <p>
       <b class="big">It's a big country,</b> geographically and
