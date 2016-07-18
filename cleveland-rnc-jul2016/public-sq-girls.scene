@@ -1,0 +1,36 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title>A card table and a couple chairs was all the family could afford after dealing with wife's brain cancer </title>
+    <description>
+      Now working around Cleveland as a horticulturist and an MBA student, these
+      good friends met as sorority sisters in college.  Their biggest
+      concern today is health care, and believe that financially and ethically,
+      a single-payer system is the only way to go for the American people.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-4-2.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/public-sq-girls/public-sq-girls_sm2.mp4" volume="1.0">
+    <gap />
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-1-2.jpg"  start="15.5" />
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-2-2.jpg"  /> 
+
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-22.jpg"  start="23.0" /> 
+
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-16.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-20.jpg"  /> 
+
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-11.jpg"  /> 
+
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-4-2.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-5-2.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-6-2.jpg"  /> 
+
+    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-9-2.jpg"  /> 
+
+<!--    <photo src="/cleveland-rnc-jul2016/public-sq-girls/PublicSQGirls-3.jpg"  />  -->
+
+    <gap start="77" />
+  </video>
+
+</scene>
