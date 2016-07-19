@@ -1,0 +1,32 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title> Vermin Supreme is running for President </title>
+
+    <description>
+      Vermin Supreme, originally from Gloucester, Massachusetts and
+      now living in Baltimore, is a performance artist and Presidential
+      candidate, finishing
+      4th in the New Hampshire Democratic Primary.  He believes 
+      we can disengage from Government with 
+      mutual aid and care to our fellow citizens taking up the slack.  He's 
+      also here to dispel tension in the air and comfort the afflicted.
+    </description>
+
+    <sceneshot src="/cleveland-rnc-jul2016/boot-hat/BootHat-8.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/boot-hat/boot-hat_sm2.mp4" volume="1.0">
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-5.jpg" />
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-9.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-3.jpg"  /> 
+    <gap start="13.5" /> 
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-1.jpg"  start="46.5" /> 
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-2.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-4.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-11.jpg"  /> 
+    <gap start="62.5"/>
+    <photo src="/cleveland-rnc-jul2016/boot-hat/BootHat-8.jpg"  start="77.0" /> 
+  </video>
+
+</scene>
