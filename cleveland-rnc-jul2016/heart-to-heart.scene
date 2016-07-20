@@ -1,0 +1,37 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title> We're here to take care of people </title>
+    <description>
+      We met Gary Morsch, from Kansas City, and his brother Mark from Orlando,
+      along with their small team of roving street medics
+      from Heart to Heart, during the Republican Convention in Cleveland.
+      Started by Gary twenty four
+      years ago, Heart to Heart
+      is a volunteer organization for serving people in need
+      around the world following disasters or proactively at events like this.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-6.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/heart-to-heart/heart-to-heart_sm2.mp4" volume="1.0">
+    <gap />
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-7.jpg" start="13.5" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-1.jpg"  /> 
+<!--    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-20.jpg"  />  -->
+    <gap start="24.5"/>
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-24.jpg" start="35.5" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-9.jpg"  /> 
+    <gap start="47.5"/>
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-2.jpg" start="66.0" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-15.jpg"  effect="crossfade(1.0)" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-16.jpg"  effect="crossfade(1.0)" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-17.jpg"  /> 
+    <gap start="87.5"/>
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-5.jpg" start="96.0" /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-3.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/heart-to-heart/HeartToHeart-12.jpg"  /> 
+    <gap start="110.0"/>
+  </video>
+
+</scene>
