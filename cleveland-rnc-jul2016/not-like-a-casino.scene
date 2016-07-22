@@ -1,0 +1,40 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title>
+      Running the country isn't like running a casino
+    </title>
+
+    <description>
+      Kim was born and raised in Cleveland, Ohio, now lives in
+      Cleveland Heights, and is currently unemployed.
+      We met Kim on the light rail heading downtown on the 
+      last day of the Republican convention.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-14.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/not-like-a-casino/not-like-a-casino_sm2.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-6.jpg"  start="9.0" />
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-2.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-9.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-3.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-4.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-7.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-8.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-12.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-11.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-14.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-10.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-13.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-1.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-3.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-5.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/not-like-a-casino/Not-Like-a-Casino-16.jpg"  /> 
+
+    <gap start="87" />
+  </video>
+
+</scene>

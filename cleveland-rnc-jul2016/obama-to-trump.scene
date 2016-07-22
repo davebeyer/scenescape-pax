@@ -1,0 +1,37 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title>
+      Donald Trump speaks his mind, and if you can't accept it, don't vote for him
+    </title>
+    <description>
+      Kristin, from Cleveland Heights, Ohio has
+      two children, and a granddaughter.  She's semi-retired
+      from a career in real estate and also volunteers
+      driving senior citizens to the hospital.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-21.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/obama-to-trump/obama-to-trump_sm2.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-4.jpg"  start="16.0" />
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-2.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-5.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-8.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-12.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-14.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-18.jpg"  /> 
+
+    <gap start="52" />
+
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-19.jpg" start="75" /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-10.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-7.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-3.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-1.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/obama-to-trump/Obama-To-Trump-21.jpg"  /> 
+  </video>
+
+</scene>
