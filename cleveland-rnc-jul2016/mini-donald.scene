@@ -1,0 +1,31 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title>Donald J. Tramp, a liberal conservative, wants your vote</title>
+
+    <description>
+      We met Donald J. Tramp with her companion, April Brucker, a standup comedian 
+      from New York, in the Cleveland Public Square during the Republican 
+      National Convention.  Besides roaming the square promoting Mr. Tramp's 
+      candidacy, Donald and April
+      also helped promote the peaceful "Stand Together Against Trump" 
+      protests during the RNC.
+      ("aprilbrucker" on facebook and "super foxx of standup"?? fan page)
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/mini-donald/d7_20160721_752024.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/mini-donald/mini-donald_sm2.mp4" volume="1.0">
+    <gap/>
+
+    <photo src="/cleveland-rnc-jul2016/mini-donald/d7_20160721_752024.jpg" start="6.1" /> 
+    <photo src="/cleveland-rnc-jul2016/mini-donald/Trump-Puppet-6.jpg"  /> 
+    <photo src="/cleveland-rnc-jul2016/mini-donald/Trump-Puppet-19.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/mini-donald/Trump-Puppet-15.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/mini-donald/Trump-Puppet-10.jpg" /> 
+    <gap start="21.8"/>
+
+    <photo src="/cleveland-rnc-jul2016/mini-donald/Trump-Puppet-20.jpg" start="39.2"/> 
+    <gap start="43.7"/>
+  </video>
+
+</scene>

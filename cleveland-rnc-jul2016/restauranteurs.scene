@@ -1,0 +1,41 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title> When I was 11 years old, I drew a picture of him as my future husband </title>
+    <description>
+      Jeffrey and Peaches, originally from Jamaica, now live in 
+      downtown Cleveland.  Thirty years after flipping burgers at 
+      MacDonalds, they've now just opened their third restaurant with
+      a business model that emphasizes treating employees
+      as community.  We met them in Cleveland's Public Square during the
+      Republican Convention.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-3.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs_sm2.mp4" volume="1.0">
+    <gap/>
+
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-7.jpg" start="25.8" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-8.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-6.jpg" /> 
+    <gap start="43.5"/>
+
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-3.jpg"  start="44.5"/> 
+    <gap start="48.0"/>
+
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-20.jpg" start="88.6" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-4.jpg" /> 
+    <gap start="97.0"/>
+
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-22.jpg" start="111.8" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-23.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-24.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-25.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-26.jpg" /> 
+    <gap start="123.5"/>
+
+    <photo src="/cleveland-rnc-jul2016/restauranteurs/restauranteurs-21.jpg" start="139.8" /> 
+    <gap start="147.2"/>
+  </video>
+
+</scene>
