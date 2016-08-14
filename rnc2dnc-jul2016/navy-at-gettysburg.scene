@@ -1,0 +1,48 @@
+<scene photo-effect="crossfade(0.2)" video-effect="crossfade(0.2)">
+
+  <sceneprops>
+    <title>
+      Very, very few want to fight in the streets, but wouldn't know it from watching the news
+    </title>
+    <description>
+      Denise and Tim, originally from Pasadena and Denver, now live in Washington, D.C. and 
+      work for the Navy.  We met them in July, 2016 at a Civil War battle site in 
+      Gettysburg, one stop along a tour they were taking together to help educate
+      themselves on American history and how it might apply to the present day.
+    </description>
+    <sceneshot src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-8.jpg" />
+  </sceneprops>
+
+  <video src="/rnc2dnc-jul2016/navy-at-gettysburg/navy-at-gettysburg_sm2.mp4" volume="1.0">
+    <gap/>
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-6.jpg" start="7.2" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-17.jpg" start="11.0" />
+
+    <gap start="16.0"/>
+
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-11.jpg"  start="20.1" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-20.jpg" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-17.jpg" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-15.jpg" />
+
+    <gap start="34.7"/>
+
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-21.jpg" start="44.15" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg.jpg" start="49.1" />
+
+    <gap start="54.6"/>
+
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-12.jpg" start="78.15" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-6.jpg" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-4.jpg" start="87.9" />
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-14.jpg" />
+
+    <gap start="98.6"/>
+
+    <photo src="/rnc2dnc-jul2016/navy-at-gettysburg/NavyGettysburg-8.jpg" start="103.2" />
+
+    <gap start="110.4"/>
+
+  </video>
+
+</scene>
