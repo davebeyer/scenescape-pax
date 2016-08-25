@@ -6,7 +6,7 @@
     </title>
 
     <description>
-      Elena Knox is a Creative Directory for a New York City ad agency.
+      Elena Knox is a Creative Director for a New York City ad agency.
       We met her on the University of Pennsylvania campus in Philadelphia
       working on behalf of Emily's List to 
       promote awareness of causes that Hilary Clinton believes in.
@@ -20,17 +20,17 @@
   <video src="/philly-dnc-jul2016/stand-up/stand-up_sm2.mp4" volume="1.0" effect="e-.5:fadeout(0.5)">
     <gap/>
 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-3.jpg" start="16.0" effect="fadeIn(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-3.jpg" start="15.7" effect="fadeIn(0.1)"/> 
     <photo src="/philly-dnc-jul2016/stand-up/Stand-up-11.jpg" /> 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-12.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-12.jpg" effect="e-.1:fadeOut(0.1)"/> 
     <gap start="30.0"/>
 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" start="41.2" effect="fadeIn(0.2)"/> 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-1.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" start="41.2" effect="fadeIn(0.1)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-1.jpg" effect="e-.1:fadeOut(0.1)"/> 
     <gap start="50.0"/>
 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-7.jpg" start="58.1" effect="fadeIn(0.2)"/> 
-    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-5.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-7.jpg" start="58.1" effect="fadeIn(0.1)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-5.jpg" effect="e-.1:fadeOut(0.1)"/> 
     <gap start="70.2"/>
 
   </video>
