@@ -1,0 +1,35 @@
+<scene>
+
+  <sceneprops>
+    <title>
+      I hope people realize really soon what's at stake in this election
+    </title>
+
+    <description>
+      Elena Knox is a Creative Directory for a New York City ad agency.
+      She's thankful for this opportunity to try to "save the world" 
+      by working on behalf of Emily's List towards electing Hilary Clinton.
+    </description>
+
+    <sceneshot src="/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" />
+  </sceneprops>
+
+  <video src="/philly-dnc-jul2016/stand-up/stand-up_sm2.mp4" volume="1.0" effect="e-.5:fadeout(0.5)">
+    <gap/>
+
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-3.jpg" start="16.0" effect="fadeIn(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-11.jpg" /> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-12.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <gap start="30.0"/>
+
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" start="41.2" effect="fadeIn(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-1.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <gap start="50.0"/>
+
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-7.jpg" start="58.1" effect="fadeIn(0.2)"/> 
+    <photo src="/philly-dnc-jul2016/stand-up/Stand-up-5.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <gap start="70.2"/>
+
+  </video>
+
+</scene>
