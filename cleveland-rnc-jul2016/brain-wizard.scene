@@ -1,0 +1,28 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title> The key to wisdom and leadership is humbleness </title>
+    <description>
+      We met with Sajid Khan of New Jersey in Cleveland's noisy Public
+      Square during the RNC.  Sajid has been studying the source of wisdom for forty
+      years, and effectiveness measures of the mind versus brain
+      (google his name plus "brain wizard").  He has found that the
+      basic force for wisdom and leadership is humbleness, something
+      he believes Mr. Trump lacks.
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-2.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/brain-wizard/brain-wizard_sm3.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-3.jpg" start="27.0"/> 
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-1.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-7.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-12.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-10.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/brain-wizard/BrainWizard-13.jpg"/> 
+
+    <gap start="61.0" />
+  </video>
+
+</scene>

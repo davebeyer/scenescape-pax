@@ -1,0 +1,32 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title> Without all the guns, the country would already be history </title>
+    <description>
+      We met Joey Gibson, a cleaned-up former felon and libertarian
+      from Vancouver, Washington, outside the
+      RNC in Cleveland.  Joey believes that our
+      pervasive gun ownership is a great defense against
+      soft terrorist targets, a substantial threat to any would be
+      invading force, as well as a necessary deterrent against the
+      Government's tendancy toward tyranny,
+    </description>
+    <sceneshot src="/cleveland-rnc-jul2016/armed/OpenCarry-7.jpg" />
+  </sceneprops>
+
+  <video src="/cleveland-rnc-jul2016/armed/armed_sm3.mp4" volume="1.0">
+    <gap />
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-1.jpg" start="54.5"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-8.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-14.jpg" /> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-15.jpg" start="71.0"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-21.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-2.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-3.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-5.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-6.jpg"/> 
+    <photo src="/cleveland-rnc-jul2016/armed/OpenCarry-13.jpg"/> 
+
+    <gap start="105.0" />
+  </video>
+
+</scene>
