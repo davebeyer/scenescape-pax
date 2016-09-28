@@ -1,0 +1,37 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <status>Staged</status>
+
+    <title> 
+      As long as the rich control our politics, there's going to be problems
+    </title>
+    <description>
+      Mike is a long-time resident of Davis, California.
+      With a college degree in Art,
+      he's now a graphic designer with 80%
+      of his work being for political campaigns.
+      Beyond systemic reforms to our politics, he believes that
+      education is the most important thing to address in the country, 
+      and can be
+      fixed by redirecting a portion of our defense budget.
+    </description>
+
+    <sceneshot src="/davis-aug2016/limit-the-money/LimitTheMoney-2.jpg" />
+  </sceneprops>
+
+  <video src="/davis-aug2016/limit-the-money/limit-the-money_sm3.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-14.jpg" start="40.5"/> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-17.jpg" /> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-3.jpg" /> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-5.jpg"/> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-11.jpg"/> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-18.jpg"/> 
+<!--    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-20.jpg"/>  --> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-6.jpg"/> 
+
+    <gap start="73.0" />
+  </video>
+
+</scene>
