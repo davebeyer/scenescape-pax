@@ -1,6 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <status>Staged</status>
+    <visibility>Staged</visibility>
 
     <title> 
       As long as the rich control our politics, there's going to be problems
