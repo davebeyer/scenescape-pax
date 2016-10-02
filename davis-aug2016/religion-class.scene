@@ -1,7 +1,5 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <visibility>Staged</visibility>
-
     <title> 
       There's more to life than just living
     </title>

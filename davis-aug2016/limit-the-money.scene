@@ -1,7 +1,5 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <visibility>Staged</visibility>
-
     <title> 
       As long as the rich control our politics, there are going to be problems
     </title>
@@ -22,7 +20,7 @@
   <video src="/davis-aug2016/limit-the-money/limit-the-money_sm3.mp4" volume="1.0">
     <gap />
 
-    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-14.jpg" start="40.5"/> 
+    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-14.jpg" start="27.5"/> 
     <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-17.jpg" /> 
     <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-3.jpg" /> 
     <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-5.jpg"/> 
@@ -31,7 +29,7 @@
 <!--    <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-20.jpg"/>  --> 
     <photo src="/davis-aug2016/limit-the-money/LimitTheMoney-6.jpg"/> 
 
-    <gap start="73.0" />
+    <gap start="59.0" />
   </video>
 
 </scene>
