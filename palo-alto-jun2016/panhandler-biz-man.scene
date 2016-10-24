@@ -19,7 +19,7 @@
     <sceneshot src="/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-21.jpg" />
   </sceneprops>
 
-  <video src="/palo-alto-jun2016/panhandler-biz-man/panhandler-biz-man_sm3.mp4" volume="0.5">
+  <video src="/palo-alto-jun2016/panhandler-biz-man/panhandler-biz-man_sm3.mp4" volume="0.3">
     <gap />
 
     <photo src="/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-2.jpg" start="30.0"/> 
