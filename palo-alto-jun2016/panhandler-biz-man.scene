@@ -1,6 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <visibility>staged</visibility>
+    <!-- <visibility>staged</visibility> -->
 
     <title> 
       Got no family, but my group of friends care for each other

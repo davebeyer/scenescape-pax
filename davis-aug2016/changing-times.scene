@@ -1,6 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <visibility>staged</visibility>
+    <!-- <visibility>staged</visibility> -->
 
     <title> 
       Last regressive push from a dying breed
@@ -8,7 +8,7 @@
     </title>
 
     <description>
-      Weintana, from Poughkeepsie, NY was back visiting family in
+      Weintana, from Poughkeepsie, NY, was back visiting family in
       Davis, California, where we met her in August, 2016.  In the
       coming years, she'd like to see "actual" gun control,
       education reform to return the focus to teaching how to
