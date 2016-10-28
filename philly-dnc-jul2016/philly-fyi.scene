@@ -1,0 +1,46 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <!-- <visibility>staged</visibility> -->
+
+    <title> 
+      The people inside the convention are the ones caged up
+    </title>
+
+    <contactinfo>
+     philly.fyi on Facebook     
+     https://www.linkedin.com/in/ernestrando
+     https://plus.google.com/+ErnestRando
+    </contactinfo>
+
+    <description>
+      We met Ernest Rando, a Cooperative Governance and Permaculture
+      teacher from Ohio, volunteering for Philly.FYI in FDR Park
+      outside of the DNC in Philadelphia.
+
+      Although a Bernie Sanders &amp; Jill Stein supporter, he's proud
+      that they've been able to create a peaceful, community space for
+      everyone to share their own views, as well as make locally-grown
+      free food available to thousands during the convention.
+    </description>
+
+    <sceneshot src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-14.jpg" />
+  </sceneprops>
+
+  <video src="/philly-dnc-jul2016/philly-fyi/philly-fyi_sm3.mp4" volume="0.4">
+    <gap />
+
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-11.jpg" start="41.5" /> 
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-13.jpg"/>
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi.jpg"/> 
+
+    <gap start="51.0" />
+
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-10.jpg" start="105.0"/> 
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-2.jpg" /> 
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-4.jpg" /> 
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-5.jpg" /> 
+    <photo src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-12.jpg" effect="fadein(0.5);E-1.0:fadeout(1.0)"/> 
+
+  </video>
+
+</scene>
