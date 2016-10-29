@@ -1,0 +1,33 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <visibility>staged</visibility>
+
+    <title> 
+      Not spirtually ready for a woman president
+    </title>
+
+    <description>
+      We met [NAME] in downtown Los Gatos, California in August, 2016.
+      [NAME] has an interesting collection of concerns from across the
+      spectrum, including anxieties about our first woman president
+      versus one who's ill-prepared, and the need to be more inclusive
+      while also better securing our country.  Her personal reaction?
+      Financially hunker down.
+    </description>
+
+    <sceneshot src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-12.jpg" />
+  </sceneprops>
+
+  <video src="/los-gatos-aug2016/spiritually-concerned/spiritually-concerned_sm3.mp4" volume="0.4">
+    <gap />
+
+    <photo src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-7.jpg" start="27.3" /> 
+    <photo src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-11.jpg"/>
+    <photo src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-13.jpg"/>
+    <photo src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-6.jpg"/>
+    <photo src="/los-gatos-aug2016/spiritually-concerned/SpirituallyAgainst-LG-3.jpg"/>
+
+    <gap start="49.3" />
+  </video>
+
+</scene>
