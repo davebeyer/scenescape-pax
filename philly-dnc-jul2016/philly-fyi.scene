@@ -1,6 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <!-- <visibility>staged</visibility> -->
+    <visibility>staged</visibility>
 
     <title> 
       The people inside the convention are the ones caged up
@@ -14,13 +14,13 @@
 
     <description>
       We met Ernest Rando, a Cooperative Governance and Permaculture
-      teacher from Ohio, volunteering for Philly.FYI in FDR Park
-      outside of the DNC in Philadelphia.
+      teacher from Ohio, volunteering for "Philly.FYI" in FDR Park
+      outside of the DNC.
 
       Although a Bernie Sanders &amp; Jill Stein supporter, he's proud
-      that they've been able to create a peaceful, community space for
+      to have helped create a peaceful &amp; respectful community space for
       everyone to share their own views, as well as make locally-grown
-      free food available to thousands during the convention.
+      free food available during the convention.
     </description>
 
     <sceneshot src="/philly-dnc-jul2016/philly-fyi/Philly-fyi-14.jpg" />
