@@ -1,6 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
-    <visibility>staged</visibility>
+    <!-- <visibility>staged</visibility> -->
 
     <title> 
       The people inside the convention are the ones caged up
