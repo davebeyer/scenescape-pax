@@ -1,0 +1,43 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <!-- <visibility>staged</visibility> -->
+
+    <title> 
+      Got no family, but my group of friends care for each other
+    </title>
+
+    <description>
+      Zachary is a disabled panhandler who has honed his craft on
+      University Ave. in Palo Alto, California.  He gets up around
+      5am, catches up with the news on TV, and then hits
+      the streets for the day.  On politics,
+      he thinks Obama deserves a little more credit, doesn't care much
+      who wins the election as long as it's not Trump, but hopes who
+      ever does can help fix our problems without adding more.
+    </description>
+
+    <sceneshot src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-21.jpg" />
+  </sceneprops>
+
+  <video src="/election16/palo-alto-jun2016/panhandler-biz-man/panhandler-biz-man_sm3.mp4" volume="0.3">
+    <gap />
+
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-2.jpg" start="30.0"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-4.jpg" /> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-11.jpg"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-13.jpg" /> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-56.jpg" /> 
+
+    <gap start="52.0" />
+
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-51.jpg" start="86.3"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-31.jpg" /> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-6.jpg"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-14.jpg"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-37.jpg"/> 
+    <photo src="/election16/palo-alto-jun2016/panhandler-biz-man/Zackery-Palo-Alto-35.jpg"/> 
+
+    <gap start="114.0" />
+  </video>
+
+</scene>

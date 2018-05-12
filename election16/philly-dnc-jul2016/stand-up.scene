@@ -1,0 +1,38 @@
+<scene>
+
+  <sceneprops>
+    <title>
+      I hope people realize really soon what's at stake in this election
+    </title>
+
+    <description>
+      Elena Knox is a Creative Director for a New York City ad agency.
+      We met her on the University of Pennsylvania campus in Philadelphia
+      working on behalf of Emily's List to 
+      promote awareness of causes that Hilary Clinton believes in.
+      She was thankful for the opportunity to try to "save the world" 
+      by working towards electing Hilary.
+    </description>
+
+    <sceneshot src="/election16/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" />
+  </sceneprops>
+
+  <video src="/election16/philly-dnc-jul2016/stand-up/stand-up_sm2.mp4" volume="1.0" effect="e-.5:fadeout(0.5)">
+    <gap/>
+
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-3.jpg" start="15.7" effect="fadeIn(0.1)"/> 
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-11.jpg" /> 
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-12.jpg" effect="e-.1:fadeOut(0.1)"/> 
+    <gap start="30.0"/>
+
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-2.jpg" start="41.2" effect="fadeIn(0.1)"/> 
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-1.jpg" effect="e-.1:fadeOut(0.1)"/> 
+    <gap start="50.0"/>
+
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-7.jpg" start="58.1" effect="fadeIn(0.1)"/> 
+    <photo src="/election16/philly-dnc-jul2016/stand-up/Stand-up-5.jpg" effect="e-.1:fadeOut(0.1)"/> 
+    <gap start="70.2"/>
+
+  </video>
+
+</scene>

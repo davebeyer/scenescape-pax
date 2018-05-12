@@ -1,0 +1,21 @@
+<scene photo-effect="fadeIn(0.5);e:fadeOut(2.0)">    <!-- hack while video bleeds in photo-photo transitions -->
+
+  <sceneprops>
+    <title> I pay my taxes, they can pay their taxes </title>
+    <description>
+      Originally from Gary, Indiana, Paul is an engineer in the California semiconductor industry,
+      and Donald Trump supporter.  We met him emerging from the Trump
+      rally in San Jose, June 2016.
+    </description>
+    <sceneshot src="/election16/trump-sj-jun2016/trailer-millionaire/MillionaireTrailer-5.jpg"/>
+  </sceneprops>
+
+  <video src="/election16/trump-sj-jun2016/trailer-millionaire/TraierMillionaireSJ_sm3.mp4" volume="0.8">
+    <gap />
+    <photo src="/election16/trump-sj-jun2016/trailer-millionaire/MillionaireTrailer-4.jpg" start="10.0"/>
+    <photo src="/election16/trump-sj-jun2016/trailer-millionaire/MillionaireTrailer-5.jpg"/>
+    <photo src="/election16/trump-sj-jun2016/trailer-millionaire/MillionaireTrailer-9.jpg"/>
+    <gap start="26.0"/>
+  </video>
+
+</scene>

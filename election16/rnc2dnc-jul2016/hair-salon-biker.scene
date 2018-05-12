@@ -1,0 +1,33 @@
+<scene>
+
+  <sceneprops>
+    <title>
+      Like to get a hold of Mr. Donald's hair, and Hilary should stop
+      stealing clothes from North Korea
+    </title>
+
+    <description>
+      Ralph owns a hair salon in Trooper, Pennsylvania.  We met him at
+      the Flight 93 Memorial outside Shanksville where he and his
+      wife, along with some friends, had ridden their motorcycles up for a visit
+      to see what the passengers went through on 9/11.  Ralph said he'd like
+      to see Trump win, though isn't real confident about either one.
+    </description>
+
+    <sceneshot src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-9.jpg" />
+  </sceneprops>
+
+  <video src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker_sm2.mp4" volume="1.0">
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-1.jpg" /> 
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-2.jpg" /> 
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-3.jpg" effect="e-.2:fadeOut(0.2)"/> 
+    <gap start="17.8"/>
+
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-4.jpg" start="100.5" effect="fadeIn(0.2)"/> 
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-5.jpg" />
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-6.jpg" /> 
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-7.jpg" />
+    <photo src="/election16/rnc2dnc-jul2016/hair-salon-biker/hair-salon-biker-8.jpg" />
+  </video>
+
+</scene>

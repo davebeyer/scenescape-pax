@@ -1,0 +1,20 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>The attacks are becoming very personal ... a bully is always a coward</title>
+    <description>
+      Oscar Munoz, originally from Honduras, lives in South San Francisco.  
+      He's a Vet who served
+      during the Reagan and Bush Senior terms.
+    </description>
+    <sceneshot src="/election16/cagop-apr2016/oscar-the-vet/TrumpDemos042916-16.jpg" />
+  </sceneprops>
+
+  <audio src="/election16/cagop-apr2016/oscar-the-vet/thevet.mp3">
+    <photo src="/election16/cagop-apr2016/oscar-the-vet/TrumpDemos042916-15.jpg" />
+    <photo src="/election16/cagop-apr2016/oscar-the-vet/TrumpDemos042916-36.jpg" />
+    <photo src="/election16/cagop-apr2016/oscar-the-vet/TrumpDemos042916-39.jpg" />
+  </audio>
+
+</scene>

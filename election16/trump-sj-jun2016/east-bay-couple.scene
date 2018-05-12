@@ -1,0 +1,28 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title>Trump's a loose canon, but still the lesser of the evils</title>
+    <description>
+      Joan and Bill, from the San Francisco East Bay, spoke with us as they
+      exited the Donald Trump rally in San Jose, California (June 2016).
+      Key concerns of theirs include safety, government waste,
+      and gun rights.
+    </description>
+    <sceneshot src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-2.jpg" />
+  </sceneprops>
+
+  <video src="/election16/trump-sj-jun2016/east-bay-couple/east-bay-couple_sm2.mp4" volume="0.8">
+    <gap/>
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/d7_20160602_751401.jpg" start="20" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-10.jpg" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-8.jpg" />
+    <gap start="37.5"/>
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-5.jpg" start="61" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-6.jpg" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/d7_20160602_751398.jpg" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-13.jpg" />
+    <photo src="/election16/trump-sj-jun2016/east-bay-couple/SunnyvaleCouple-3.jpg" />
+    <gap start="109"/>
+  </video>
+
+</scene>

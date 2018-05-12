@@ -2,16 +2,17 @@
   <title> Portrait of America at the Crossroads </title>
 
   <description>
-    Motivated by the election of 2016, PAX is an
+    PAX is an
     evolving, multimedia gallery which attempts to capture
-    the unique perspectives, passions, and experiences of a broad
+    the unique perspectives, passions, and experiences on the issues and challenges 
+    of our time of a broad
     swath of Americans who do not ordinarily command a microphone.  We
     invite you to follow and share!
   </description>
 
   <favicon src="http://ss-m1.s3.amazonaws.com/1102/scenes/ss0-general/favicon.png"/>
 
-  <backgroundphoto src="/general/flag-on-shed.jpg"/>
+  <backgroundphoto src="/general/flag-on-shed.med.jpg"/>
 
   <facebook   src="http://www.facebook.com/americaatthecrossroads"/>
   <instagram  src="http://www.instagram.com/pax.gallery"/>
@@ -28,16 +29,17 @@
 
   <introduction>
     <p>
-      <b class="big">It's a big country,</b> geographically and
+      <b class="big">It's a big country,</b> both geographically and
       ideologically.  But given our current information revolution,
       one may have hoped that empathy and appreciation of different
-      conditions and perspectives could benefit, and common
-      understandings could emerge.  However, this revolution has also
-      brought the seductive opportunity for each of us to more
+      conditions and perspectives could benefit, established truths could be 
+      generally agreed, and common understandings could emerge.
+      However, this revolution has also
+      brought the seductive opportunity to more
       thoroughly surround and isolate ourselves in our own information
-      bubbles, fueled by the political, corporate media, and even foreign
-      incentives to polarize.  Consequently, it appears the opposite may be
-      happening.
+      bubbles, fueled by the political, corporate, and even foreign
+      incentives to polarize and distort.  Consequently, it appears the 
+      opposite may be happening.
     </p>
 
     <p>
@@ -46,17 +48,16 @@
       passions, and lives of Americans who don't ordinarily command a
       microphone.  In particular, our aim is towards unique and
       original perspectives and experiences related to the issues and
-      debates of our time, while doing our best
+      challenges of our time, while doing our best
       to sidestep simple
       recitations of the talking heads from our respective bubbles.
     </p>
 
     <p>
-      <b class="big">Thanks for visiting!</b> 
-      Please take your time to browse the gallery (click on the
-      stories below), and let us know what interests you using 
-      the Facebook Like and Share buttons above, or you can also
-      reach us by 
+      <b class="big">Thanks for visiting!</b> Click on one of the
+      chapters below to get started, browse the scenes in the chapter gallery,
+      and take advantage of the Facebook Like and Share buttons above!  Also, 
+      you can always reach us at
       <a href="mailto:pax.muster@gmail.com" target="_blank">Email</a>.
     </p>
 
@@ -66,48 +67,12 @@
     <h1>Portrait of America <br/> At the Crossroads (PAX)</h1>
 
     <p>
-      <b class="big">Ask anyone</b> 
-      who has lived through the American presidential elections of the past 60
-      years, including 1968, and they will tell you that there is no
-      precedent for what is taking place during the election
-      of 2016.
-    </p>
-
-    <p>
-      <b class="big">Polarization,</b> real or perceived, of Democrat
-      vs. Republican, liberal vs. conservative, privileged vs. the
-      disempowered, consumes virtually every political dialogue
-      to an extent rarely seen.  Citizens on all sides express
-      feelings of frustration of being left behind and without a
-      voice.  Politicians and the media have cashed in by cultivating
-      the seeds of misinformation, conspiracy suspicions, 
-      and fear, inevitably
-      leading to exagerated or irrational anger and vilification among voters, and
-      to representatives incapable of compromise and governing.
-    </p>
-
-    <p>
-      <b class="big">PAX intends to build bridges,</b> however slight,
-      between the edges of these chasms, with an eye and ear toward
-      the social and cultural rail of contemporary America.  While we won't
-      always succeed, PAX will probe beyond the looping rhetoric to
-      seek unique and original stories and perspectives,
-      as well as those commonly held hopes and values that reflect the
-      passionate patriotism embraced by all sides.  Although the power-
-      and financially-driven interests that benefit are constantly at work
-      digging these chasms of division deeper, 
-      we believe that
-      the rims are not always inherently as far apart as these interests would 
-      want us to think.
-    </p>
-
-    <p>
       <a href="https://www.linkedin.com/in/nealmenschel" target="_blank">
         <img src="http://ss-m1.s3.amazonaws.com/1102/scenes/ss0-general/neal_w_camera_bw.jpg" 
              width="175" align="right" style="display:inline"/>
       </a>
 
-      <b class="big">Who are we?</b>  PAX is a creation of 
+      PAX is a creation of 
       <a href="https://www.linkedin.com/in/davebeyer"
       target="_blank">Dave Beyer</a>
       and 

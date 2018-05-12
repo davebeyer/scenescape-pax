@@ -1,0 +1,36 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+
+  <sceneprops>
+    <title>How can I stand there painting abstracts when the world around me is on fire</title>
+    <description>
+       Born in London, raised in Spain, Julian Raven became a United States
+       citizen last year and has dedicated himself to serving his (new) country
+       by using his abilities as an artist to support Donald Trump.
+    </description>
+    <sceneshot src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-15.jpg" />
+  </sceneprops>
+
+  <video src="/election16/cleveland-rnc-jul2016/artist-for-trump/artist-for-trump_sm2.mp4" volume="1.0">
+    <gap/>
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-1.jpg"  start="24" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-3.jpg"  />
+
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-7.jpg"  />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-9.jpg"  />
+
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-4.jpg"  />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-5.jpg"  />
+
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-10.jpg" duration="2" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-11.jpg" duration="2" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-12.jpg" duration="2" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-13.jpg" duration="2" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-14.jpg" duration="2" />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-15.jpg" />
+
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-16.jpg"  />
+    <photo src="/election16/cleveland-rnc-jul2016/artist-for-trump/ArtistForTrump-17.jpg"  />
+    <gap start="68"/>
+  </video>
+
+</scene>

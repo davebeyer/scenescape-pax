@@ -1,0 +1,36 @@
+<scene photo-effect="fadeIn(.5); E-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); E-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>He's mocking our democracy, and that troubles me</title>
+    <description>
+      Diane is a professor and Hillary Clinton supporter from Woodside, California.
+    </description>
+    <sceneshot src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
+  </sceneprops>
+
+  <video src="/election16/hillary-sj-may2016/woodside-prof/woodside-prof_v2_sm.mp4" volume="1.0">
+    <gap duration="14"/>  
+
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-7.jpg" />
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-1.jpg" />
+    <!-- <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-13.jpg" /> -->
+
+    <gap start="23.5" duration="11.5"/>
+
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-4.jpg" />
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-5.jpg" />
+
+    <gap start="43.5" duration="14.5"/>
+
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-3.jpg" />
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-6.jpg" />
+    <!-- <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-8.jpg" /> -->
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-2.jpg" />
+    <!-- <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-10.jpg" /> -->
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-11.jpg" />
+    <photo src="/election16/hillary-sj-may2016/woodside-prof/WoodsideProf-12.jpg" />
+
+    <gap start="76.5"/>
+  </video>
+</scene>

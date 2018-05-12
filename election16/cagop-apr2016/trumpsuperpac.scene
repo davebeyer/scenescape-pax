@@ -1,0 +1,27 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>Of course the green card process should be easier ...
+           I don't think anybody's against human beings</title>
+    <description>
+      Andrew Barnett, from Orange County, California works for 
+      a Trump SuperPAC.
+    </description>
+    <sceneshot src="/election16/cagop-apr2016/trump-superpac/d7_20160429_750792.jpg"/>
+  </sceneprops>
+
+  <audio src="/election16/cagop-apr2016/trump-superpac/Andrew-Barnett-Trump.mp3">
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-413.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-412.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/d7_20160429_750790.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-90.jpg" duration="8"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-23.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-324.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-409.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-411.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/d7_20160429_750793.jpg"/>
+    <photo src="/election16/cagop-apr2016/trump-superpac/TrumpDemos042916-182.jpg"/>
+  </audio>                                          
+                                                    
+</scene>

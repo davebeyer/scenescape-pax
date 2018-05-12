@@ -1,0 +1,21 @@
+<scene photo-effect="fadeIn(.5); E-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); E-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>She believes in what I believe in (and she's the smart one)</title>
+    <description>
+      A young Hillary volunteer, helped people sign in and 
+      passed out Hillary posters at 
+      her organizing event and rally in San Jose, California
+    </description>
+    <sceneshot src="/election16/hillary-sj-may2016/hillary-boy/d7_20160608_55.jpg" />
+  </sceneprops>
+
+  <video src="/election16/hillary-sj-may2016/hillary-boy/hillary-boy_sm.mp4" volume="0.8">
+    <photo src="/election16/hillary-sj-may2016/hillary-boy/d7_20160608_52.jpg"/>
+    <photo src="/election16/hillary-sj-may2016/hillary-boy/d7_20160608_53.jpg" />
+    <gap start="13" />
+    <photo src="/election16/hillary-sj-may2016/hillary-boy/d7_20160608_54.jpg" start="36" />
+    <photo src="/election16/hillary-sj-may2016/hillary-boy/d7_20160608_56.jpg" />
+  </video>
+</scene>

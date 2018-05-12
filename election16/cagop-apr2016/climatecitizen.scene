@@ -1,0 +1,24 @@
+<scene photo-effect="fadeIn(.5); e-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>I was inspired to work on the climate challenge by a conservative 
+           who wanted his son's vote</title>
+    <description>
+      Tim Dec helped start the Silicon Valley chapter of the Citizens Climate Lobby,
+      which promotes revenue-neutral
+      solutions to address climate change.
+    </description>
+    <sceneshot src="/election16/cagop-apr2016/climate-citizen/TrumpDemos042916-438.jpg"/>
+  </sceneprops>
+
+  <audio src="/election16/cagop-apr2016/climate-citizen/Climate-Citizen.mp3">
+    <photo src="/election16/cagop-apr2016/climate-citizen/TrumpDemos042916-434.jpg"/>
+    <photo src="/election16/cagop-apr2016/climate-citizen/d7_20160524_1.jpg"/>
+    <photo src="/election16/cagop-apr2016/climate-citizen/TrumpDemos042916-436.jpg"/>
+    <photo src="/election16/cagop-apr2016/climate-citizen/TrumpDemos042916-441.jpg"/>
+    <photo src="/election16/cagop-apr2016/climate-citizen/TrumpDemos042916-439.jpg"/>
+    <photo src="/election16/cagop-apr2016/climate-citizen/d7_20160524_2.jpg"/>
+  </audio>
+
+</scene>

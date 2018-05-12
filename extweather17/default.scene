@@ -1,0 +1,58 @@
+<scene stage="listing">
+  <sceneprops>
+    <title>The Train's Comin'</title>
+
+    <period begin="2017-01-01" end="2017-12-31"/>
+
+    <description>
+      We visit the places, from Montana to Texas, California to Puerto
+      Rico, hit hard by the extreme weather of 2016, to share the
+      experiences of and long-lasting effects on those affected.
+    </description>
+
+    <introduction>
+
+      <p>
+        <b class="big">2017 raised the bar</b> for the number and intensity of extreme
+        weather events in America with hurricanes, fires, tornadoes,
+        droughts, floods, freezes and other weather events causing
+        more damage than ever before.  Americans experienced 16
+        occurrences of extreme weather, each costing more than 1
+        billion inflation-adjusted dollars, 4 more than the former
+        record set in 2011, and 7 more than the record set before that
+        in 2008.  Overall, these events incurred damage costing over
+        300 billion dollars, about twice what the federal government
+        spends on veteran benefits, education, transportation, and
+        environmental protection, combined.
+      </p>
+
+      <p>
+        <b class="big">We may recall</b> watching the news reports on “Maria” and
+        “Harvey” and perhaps a couple others, but for many of us,
+        attention very soon moves on and returns to the latest
+        political drama or Netflix series binge. However, for those
+        affected, moving on isn’t so easy, which leads us to the next
+        chapter of PAX, The Train’s Comin’. In this chapter, we travel
+        around the country to meet the people directly, and harshly
+        affected by many of these 16 extreme weather events to learn
+        and share what it’s like to experience and attempt to “move
+        on” from them as they become more common across the country.
+      </p>
+
+      <p>
+        <b class="big">Please follow along with us</b> on 
+        <a href="https://www.instagram.com/pax.gallery" target="_blank">Instagram</a>
+        along the road to
+        a new chapter in Portrait of America at the Crossroads as we
+        document our travel across the country, and then in the
+        coming months as we publish the stories of the people we’ve
+        met.
+      </p>
+
+    </introduction>
+
+    <sceneshot src="/general/houston-shoes.med.jpg"/>
+  </sceneprops>
+  {% insert t_scenelisting() %}
+</scene>
+

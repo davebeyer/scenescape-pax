@@ -1,0 +1,27 @@
+<scene photo-effect="crossfade(.2)" video-effect="crossfade(.2)">
+
+  <sceneprops>
+    <title>Sister Nadia is here to help you find the right bathroom</title>
+
+    <description>
+      Sister Nadia Heddensmile, along with a few other sisters
+      from Cleveland's Rock-n-roll City Sisters,
+      joined the crowds outside the Republican Convention as part of their
+      ongoing mission to help spread universal joy and tolerance.
+    </description>
+
+    <sceneshot src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-2.jpg" />
+  </sceneprops>
+
+  <video src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister_sm2.mp4" volume="1.0">
+    <photo src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-2.jpg" /> 
+    <photo src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-4.jpg" /> 
+    <photo src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-10.jpg" /> 
+
+    <gap start="8.5"/>
+
+    <photo src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-7.jpg" start="30.1" /> 
+    <photo src="/election16/cleveland-rnc-jul2016/rnr-city-sister/rnr-city-sister-1.jpg" /> 
+  </video>
+
+</scene>

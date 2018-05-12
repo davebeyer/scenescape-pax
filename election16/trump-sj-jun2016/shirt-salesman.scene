@@ -1,0 +1,20 @@
+<scene photo-effect="fadeIn(.5); E-.5:fadeOut(0.5)"
+       video-effect="fadeIn(.5); E-.5:fadeOut(0.5)">
+
+  <sceneprops>
+    <title>When in my 20s you could get jobs in construction, painting, yardwork, those jobs are all gone now </title>
+    <description>
+      From the San Francisco Bay Area, Lance 
+      sells shirts and gathers signatures for political petitions,
+      among other jobs.
+    </description>
+    <sceneshot src="/election16/trump-sj-jun2016/shirt-salesman/d7_20160608_20.jpg" />
+  </sceneprops>
+
+  <video src="/election16/trump-sj-jun2016/shirt-salesman/shirt-salesman_sm.mp4" volume="0.8">
+    <gap/>
+    <photo src="/election16/trump-sj-jun2016/shirt-salesman/d7_20160608_27.jpg" start="17"/>
+    <photo src="/election16/trump-sj-jun2016/shirt-salesman/PetitionGuy-1.jpg"/>
+    <gap start="27"/>
+  </video>
+</scene>

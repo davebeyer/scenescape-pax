@@ -1,0 +1,45 @@
+<scene photo-effect="crossfade(1.0)" video-effect="crossfade(1.0)">
+
+  <sceneprops>
+    <title>Proof that anything can happen anywhere at anytime</title>
+    <description>
+      After 33 years underground mining coal, mostly on
+      his hands and knees under ceilings as low as 36 inches,
+      Jeff finally reached his dream three years ago of starting a
+      restaurant with his wife Paula.  You can find their Lincoln Cafe
+      along route 30 in Buckstown Pennsylvania, about 2 miles from the
+      crash site of flight 93.
+    </description>
+    <sceneshot src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-31.jpg" />
+  </sceneprops>
+
+  <video src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-to-bbq_sm2.mp4" volume="1.0">
+    <gap/>
+
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-18.jpg"  start="7" />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-10.jpg" />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-4.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-3.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-5.jpg"  />
+
+    <gap start="32.5"/>
+
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-15.jpg" start="48" />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-7.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-6.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-8.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-9.jpg"  />
+
+    <gap start="75"/>
+
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-17.jpg" start="115"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-31.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-21.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-23.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-14.jpg"  />
+    <photo src="/election16/rnc2dnc-jul2016/coal-to-bbq/coal-bbq-11.jpg"  />
+
+    <gap start="144.5"/>
+  </video>
+
+</scene>

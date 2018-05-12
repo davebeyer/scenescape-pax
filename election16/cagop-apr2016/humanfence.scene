@@ -1,0 +1,31 @@
+<scene photo-effect="fade(.5)" video-effect="fade(.5)">
+
+  <sceneprops>
+    <title> Scapegoating is not the answer to our problems </title>
+    <description>
+      She had never before participated in a human fence
+      but decided it was important to answer the call to participate
+      in this demonstration at the GOP State Convention in 
+      Burlingame, California (Apr 2016).
+    </description>
+    <sceneshot src="/election16/cagop-apr2016/human-fence/d7_20160429_750638.jpg"/>
+  </sceneprops>
+
+  <audio src="/election16/cagop-apr2016/human-fence/human-fence-lead-girl.mp3" volume="0.8">
+    <photo src="/election16/cagop-apr2016/human-fence/d7_20160429_750638.jpg" />
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-45.jpg"  start="9.2"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-135.jpg" start="14.3"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-75.jpg"  start="18.1" effect="crossFade(0.5)"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-80.jpg"  start="25.0"/>
+    <gap start="31.1"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-135.jpg" start="31.4"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-147.jpg" start="36.1" effect="crossFade(0.5)"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-141.jpg" start="41.3" effect="crossFade(0.5)"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-148.jpg" start="43.3"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-142.jpg" start="46.1"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-83.jpg"  start="50.0"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-86.jpg"  start="56.0"/>
+    <photo src="/election16/cagop-apr2016/human-fence/d7_20160429_750638.jpg"   start="66.0"/>
+    <photo src="/election16/cagop-apr2016/human-fence/TrumpDemos042916-68.jpg"  start="68.2"/>
+  </audio>
+</scene>

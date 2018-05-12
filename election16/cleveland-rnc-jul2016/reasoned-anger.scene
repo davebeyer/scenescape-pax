@@ -1,0 +1,36 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title> 
+      The anger is justified, but immigrants and Muslims aren't the problem  
+    </title>
+<!-- 
+    Despite the Trump elements of bigotry &amp; racism, it's a disservice to write
+    off the anger as illigitimate
+-->
+    <description>
+      We met Kevin from Cleveland Heights outside of the RNC.
+      A Bernie Sanders supporter, he came partly to
+      protest but also to check out the scene.  Both his parents being
+      union workers, father a machinist and mother a secretary in the
+      school system, Kevin jokingly says he comes from a long line of
+      agitators.
+    </description>
+    <sceneshot src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-1.jpg" />
+  </sceneprops>
+
+  <video src="/election16/cleveland-rnc-jul2016/reasoned-anger/reasoned-anger_sm3.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-16.jpg" start="29.5"/> 
+    <!-- <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-11.jpg" /> -->
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-2.jpg" /> 
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-6.jpg" /> 
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-12.jpg"/> 
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-13.jpg"/> 
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-15.jpg"/> 
+    <photo src="/election16/cleveland-rnc-jul2016/reasoned-anger/ReasonedAnger-9.jpg"/> 
+
+    <gap start="69.0" />
+  </video>
+
+</scene>

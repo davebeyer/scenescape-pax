@@ -1,0 +1,35 @@
+<scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
+  <sceneprops>
+    <title> 
+      Time to stand up and be counted on getting money out of politics
+    </title>
+    <description>
+
+      We met Barry Kauffman, the Executive Director of Common Cause
+      Pennsylvania, at the entrance to FDR Park in Philadelphia during
+      the Democratic Convention.  Barry has been working with Common
+      Cause for three decades fighting against and trying to reduce
+      the overwhelming influence of money in politics.
+
+    </description>
+    <!-- http://www.commoncause.org/states/pennsylvania/about/staff-directory 
+         https://www.facebook.com/barry.lee.kauffman?fref=ts
+     -->
+
+    <sceneshot src="/election16/philly-dnc-jul2016/common-cause/common-cause-6.jpg" />
+  </sceneprops>
+
+  <video src="/election16/philly-dnc-jul2016/common-cause/common-cause_sm3.mp4" volume="1.0">
+    <gap />
+
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-4.jpg" start="42.0"/> 
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-5.jpg" /> 
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-8.jpg" /> 
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-10.jpg"/> 
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-14.jpg"/> 
+    <photo src="/election16/philly-dnc-jul2016/common-cause/common-cause-17.jpg"/> 
+
+    <gap start="75.0" />
+  </video>
+
+</scene>
