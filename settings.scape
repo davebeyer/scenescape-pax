@@ -19,7 +19,7 @@
 
   <!-- TODO: automatically added by server when serving this file
        for scenescapes for which a sprite has been generated -->
-  <scenesprite src="/general/sprite.png" dim="600,400" count="71"/>  
+  <scenesprite src="/general/sprite.png" dim="600,400" count="76"/>  
 
   <copyright>
     <a href="mailto:pax.muster@gmail.com" target="_blank">
