@@ -4,6 +4,10 @@
 
     <period begin="2016-01-01" end="2016-11-8"/>
 
+    <sceneshot src="/general/mean-not-cool.med.jpg"/>
+
+    <scenevideo src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Famericaatthecrossroads%2Fvideos%2F249043685715131%2F&amp;width=500&amp;show_text=false&amp;appId=552828451829235" />
+
     <description>
       People in big and small towns around the country, and attendees
       and activists at political rallies and conventions, share their
@@ -69,7 +73,6 @@
       </p>
     </introduction>
 
-    <sceneshot src="/general/mean-not-cool.med.jpg"/>
   </sceneprops>
   {% insert t_scenelisting() %}
 </scene>

@@ -4,6 +4,8 @@
 
     <period begin="2017-01-01" end="2017-12-31"/>
 
+    <sceneshot src="/general/houston-shoes.med.jpg"/>
+
     <description>
       We visit the places, from Montana to Texas, California to Puerto
       Rico, hit hard by the extreme weather of 2017, to share the
@@ -65,7 +67,6 @@
 
     </introduction>
 
-    <sceneshot src="/general/houston-shoes.med.jpg"/>
   </sceneprops>
   {% insert t_scenelisting() %}
 </scene>
