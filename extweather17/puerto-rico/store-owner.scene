@@ -1,0 +1,24 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+My family in the U.S. was crying since they couldn't reach us for 2 weeks
+    </title>
+
+    <description>
+With its backup generator, Danny was able to open his Super Market in
+Manuabo within a week after Maria.  As the only open store for miles
+around, he sold out everything within a few days, and it took another
+two weeks to restock.  Danny was also trusted to bring stacks of
+paychecks of the town residents on a regular trek to the nearby town
+of Yabucoa while the roads were closed to get them cashed so they
+could pay for supplies during the weeks following the hurricane.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/store-owner/store-owner.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/store-owner/store-owner_250.mp4" volume="0.7">
+  </video>
+
+</scene>

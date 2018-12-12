@@ -1,0 +1,26 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Swimming in the pool on Christmas Day
+    </title>
+
+    <description>
+Ann is known as the Blueberry Queen in the small rural town of Alma,
+Georgia, "Blueberry Capital of the State."  She and her husband
+started growing blueberries on their 10-acre farm in the early 1970's.
+Besides helping run the farm, now 50 acres, Ann was a school teacher
+in business accounting and law until retiring in 2013, and since has
+followed her passion top open her store that sells "everything
+blueberry," from soap and syrup to beef jerky and pepper jelly.  Ann
+described the freeze of 2017 which resulted in devestating losses to
+the Georgia blueberry and peach crop.
+    </description>
+
+    <sceneshot src="/extweather17/georgia/blueberry-queen/blueberry-queen.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/georgia/blueberry-queen/blueberry-queen_250.mp4" volume="0.7">
+  </video>
+
+</scene>

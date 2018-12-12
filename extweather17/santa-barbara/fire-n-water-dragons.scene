@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+I started running yelling 'flash flood, flash flood'
+    </title>
+
+    <description>
+Marco led us through a blow-by-blow description of his harrowing
+experience as he, his parents, and his three-legged border collie ride
+out the debris-flow in their home in Montecito, CA. Several instances of
+good fortune and foresight allowed them to narrowly escape a tragedy that took twenty-one
+lives in their community.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/fire-n-water-dragons/fire-n-water-dragons.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/fire-n-water-dragons/fire-n-water-dragons_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Flooding 160 thousand homes could mean 1.6 million new doors
+    </title>
+
+    <description>
+Kathleen spoke about the impossible, myriad of decisions that must be
+made in the hours or minutes you have to prepare for a flood, as well
+as the overwhelming logistics in recovering from it.  For instance,
+"When you have 160,000 flooded homes in the same county at the same
+time, and if everybody needs 10 new doors, that's 1.6 million
+replacement doors."
+    </description>
+
+    <sceneshot src="/extweather17/houston/neighbor/neighbor.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/houston/neighbor/neighbor_250.mp4" volume="0.7">
+  </video>
+
+</scene>

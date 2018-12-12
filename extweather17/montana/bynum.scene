@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+We can't do another year like this
+    </title>
+
+    <description>
+We met Vicki on her 5000-acre ranch in the small western Montana town
+of Bynum.  Aggravating the hardships caused by the extreme drought
+throughout Eastern Montana, the West has also been hit with an
+extremely snowy and cold Winter and Spring, resulting in heavy losses
+to cattle and endangering the viability of ranches throughout the
+region.
+    </description>
+
+    <sceneshot src="/extweather17/montana/bynum/bynum.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/montana/bynum/bynum_250.mp4" volume="0.7">
+  </video>
+
+</scene>

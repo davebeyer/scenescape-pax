@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+It was attacking like a big monster
+    </title>
+
+    <description>
+We met Hector up in the mountains of central Puerto Rico.  
+He had lived in Key West Florida for 17 years, but moved to Puerto Rico to
+live with his mom (a native Puerto Rican "Taína") to avoid
+Hurricane Irma as it approached Florida.  Unfortunately, a week later,
+Puerto Rico was hit with its worst Hurricane in recorded history,
+Maria.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/gas-station/gas-station.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/gas-station/gas-station_250.mp4" volume="0.7">
+  </video>
+
+</scene>

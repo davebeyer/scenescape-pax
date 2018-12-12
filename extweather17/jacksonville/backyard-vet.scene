@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+A whole different ballgame
+    </title>
+
+    <description>
+An Army vet, Alfonso lived in Jacksonville his whole life.  After
+retiring, he bought this house along the Trout River in 2016, just in
+time to experience Hurricane Matthew, which caused the sea to rise
+almost into his backyard.  But as he told us, "Hurricane Irma was a
+whole different ballgame.
+    </description>
+
+    <sceneshot src="/extweather17/jacksonville/backyard-vet/backyard-vet.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/jacksonville/backyard-vet/backyard-vet_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,26 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+When the train comes you respect the train
+    </title>
+
+    <description>
+We spoke with Don, President of the Association of the
+Miraculous Medal, in the pews of Saint Mary's Church in Perryville,
+Missouri a year after a huge, EF4 tornado thundered through his town.
+Beneath the floor of Saint Mary's rests the tomb of the Venerable
+Felix de Andreis, one of the founders of the Catholic Seminary created
+in 1818 at this site, the first such seminary west of the Mississippi
+River.  Don relayed the story of how, upon his death, Felix de
+Andreis blessed the residents of Perryville to protect them from
+mortal harm from tornadoes.
+    </description>
+
+    <sceneshot src="/extweather17/perryville/seminary-director/seminary-director.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/perryville/seminary-director/seminary-director_250.mp4" volume="0.7">
+  </video>
+
+</scene>

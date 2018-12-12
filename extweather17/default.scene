@@ -4,13 +4,16 @@
 
     <period begin="2017-01-01" end="2017-12-31"/>
 
-    <sceneshot src="/general/houston-shoes.med.jpg"/>
+    <sceneshot src="/general/extweather17.sma.jpg"/>
+
+    <!--
+    <scenevideo src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Famericaatthecrossroads%2Fvideos%2F249043685715131%2F&amp;width=500&amp;show_text=false&amp;appId=552828451829235&amp;mute=0" />
+      -->
 
     <description>
       We visit the places, from Montana to Texas, California to Puerto
       Rico, hit hard by the extreme weather of 2017, to share the
       experiences of and long-lasting impacts on those affected.
-      (Stay tuned, stories coming by year-end, 2018.)
     </description>
 
     <introduction>
@@ -41,7 +44,7 @@
         “Harvey” and perhaps a couple others, but for many of us,
         attention very soon moves on and returns to the latest
         political drama or Netflix series binge. However, for those
-        affected, moving on isn’t so easy, which leads us to the next
+        affected, moving on isn’t so easy, which leads us to this next
         chapter of PAX, The Train’s Comin’. In this chapter, we travel
         around the country to meet the people directly, and harshly
         affected by many of these 16 extreme weather events to learn
@@ -50,24 +53,20 @@
       </p>
 
       <p>
-        <b class="big">Please follow along with us</b> on 
-        <a href="https://www.instagram.com/pax.gallery" target="_blank">Instagram</a>
-        along the road to
-        a new chapter in Portrait of America at the Crossroads as we
-        document our travel across the country, and then in the
-        coming months as we publish the stories of the people we’ve
-        met.
-        Also, you can always reach us at
-        <a href="mailto:pax.muster@gmail.com" target="_blank">pax.muster@gmail.com</a>.
-      </p>
-
-      <p>
-        <b>Stay tuned, stories coming by year-end, 2018 ...</b>
+        <b class="big">We invite</b> you to click on the stories below to hear the stories
+        of Americans affected by the weather of 2017, and 
+        don't forget the Facebook Like and Share buttons above.  Also, 
+        you can always reach us at
+        <a href="mailto:pax.muster@gmail.com" target="_blank">pax.muster@gmail.com</a>, and
+        can follow us on <a href="https://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>,
+        <a href="https://www.youtube.com/channel/UCRDN9xCLL-r2Phk0z7orCNA" target="_blank">YouTube</a>,
+        and <a href="https://www.instagram.com/pax.gallery" target="_blank">Instagram</a>.
       </p>
 
     </introduction>
 
   </sceneprops>
+
   {% insert t_scenelisting() %}
 </scene>
 

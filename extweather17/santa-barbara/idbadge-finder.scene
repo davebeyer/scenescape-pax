@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+I found an ID card of a person who had died, so I sent it to a surviving family member
+    </title>
+
+    <description>
+Bob lives in Santa Barbara, California, the town he was born in, and
+over the years has been involved in many volunteer communities in the
+area.  When he learned of the effort by Habitat for Humanity to
+rehabilitate homes that were damaged by the fire and mud slides in
+neighboring Montecito, he wanted to be a part of it.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/idbadge-finder/idbadge-finder.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/idbadge-finder/idbadge-finder_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Lost the violin that belonged to my Great Grandfather
+    </title>
+
+    <description>
+Like many of the people we spoke with, Chris mentioned that people try
+to cheer him up by saying things like "Well, at least you had
+insurance and can now upgrade your house so maybe the whole thing is a
+blessing in disguise."  And, just like the others we spoke with, Chris
+said that he would argue that point.
+    </description>
+
+    <sceneshot src="/extweather17/houston/trailer/trailer.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/houston/trailer/trailer_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Our family in the U.S. probably thought we were dead
+    </title>
+
+    <description>
+We met Natasha, a micro-biology student at University of Puerto Rico,
+in the central mountain region of Utuado.  With available plywood becoming
+scarce before the storm, Natasha's family boarded their windows with
+layers of cardboard, and spent much of the storm soaking up rain water
+that found its way into the house through the cracks around windows
+and doors under the pressure of the winds.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/college-student/college-student.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/college-student/college-student_250.mp4" volume="0.7">
+  </video>
+
+</scene>

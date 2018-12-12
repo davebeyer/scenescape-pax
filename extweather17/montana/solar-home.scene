@@ -1,0 +1,24 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+When I was growing up, we never had tornadoes 
+    </title>
+
+    <description>
+We spoke with Wade in his solar-heated home that he built on his ranch
+about 20 miles South of Baker, in South-East Montana.  Wade talked
+about the effect of the Montana drought on his farm, which resulted in
+a "total failure" for their Spring wheat harvest.  Wade also spoke
+about the alarming increase in extreme weather (tornadoes, hail) in
+his region, and the distressting long-term impact on the nation's food
+supply.
+    </description>
+
+    <sceneshot src="/extweather17/montana/solar-home/solar-home.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/montana/solar-home/solar-home_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+You didn't want to fart in the woods, 'cause that would have started a fire
+    </title>
+
+    <description>
+Marco, a long time resident of Montecito is also a local real estate
+agent and is closely connected with local residents. He pays close
+attention to local weather patterns, conditions, and their affect on
+the landscape. He explains the formula of weather patterns that led to
+the Thomas fire and then in January, after heavy rains, the subsequent
+debris flows that decimated the town of Montecito.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/debris-basin/debris-basin.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/debris-basin/debris-basin_250.mp4" volume="0.7">
+  </video>
+
+</scene>

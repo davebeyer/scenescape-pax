@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+When a tree comes through the side of a house, all normal construction timelines are thrown out the window
+    </title>
+
+    <description>
+Liz was working at a non-profit in San Francisco until the week of the
+huge "Thomas" fire when she decided to return to her home town of
+Santa Barbara to help with the recovery and restoration efforts.  She
+arrived home just before the powerful and tragic mudslides in
+neighboring Montecito, so her attention switched to that and the
+challenges of leading disaster crews for Habitat for Humanity.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/habitat-leader/habitat-leader.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/habitat-leader/habitat-leader_250.mp4" volume="0.7">
+  </video>
+
+</scene>

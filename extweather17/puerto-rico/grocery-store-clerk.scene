@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Our house was concrete, and shaking like an earthquake
+    </title>
+
+    <description>
+We met Yeradmel on the job at the grocery store in downtown Manuabo,
+Puerto Rico.  Yeradmel rode out hurricane Maria with his mother in
+their bathroom at the center of their house.  When Yeradmel realized
+that the sudden calm of the storm was due to being in the eye, and
+thus only temporary, his dejected, resignation was palpable.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/grocery-store-clerk/grocery-store-clerk.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/grocery-store-clerk/grocery-store-clerk_250.mp4" volume="0.7">
+  </video>
+
+</scene>

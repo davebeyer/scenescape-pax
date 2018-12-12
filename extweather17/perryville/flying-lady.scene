@@ -1,0 +1,25 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+They scooped the rest of my house off the highway
+    </title>
+
+    <description>
+A long-time resident of Perryville, Missouri, Patricia was in her house
+when an EF4 tornado, one of a series of tornadoes to sweep through the
+midwest February 28 through March 1, 2017, paid her a visit.  As
+Patricia clung onto her couch in the basement, her son watched from
+across the street as the tornado lifted and then exploded the house in
+mid-air.  Although a substantial section of the house was thrown into
+the street, none of the contents could be found in the area, not even
+any piece of the washer, dryer, or fridge.
+    </description>
+
+    <sceneshot src="/extweather17/perryville/flying-lady/flying-lady.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/perryville/flying-lady/flying-lady_250.mp4" volume="0.7">
+  </video>
+
+</scene>

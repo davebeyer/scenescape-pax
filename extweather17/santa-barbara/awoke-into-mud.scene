@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+I got out of bed and stepped into a foot of mud
+    </title>
+
+    <description>
+Following the largest wildfire in California history, the Thomas fire,
+drenching rains created major mudslides in Southern California,
+particularly in Santa Barbara county. Jeff, an olympic gold medalist
+and Vietnam veteran, recounts a harrowing night in his Montecito home
+during the night of a devastating debris flow that killed 23 people
+and destroyed over 100 homes, and damaging 300 others.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/awoke-into-mud/awoke-into-mud.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/awoke-into-mud/awoke-into-mud_250.mp4" volume="0.7">
+  </video>
+
+</scene>

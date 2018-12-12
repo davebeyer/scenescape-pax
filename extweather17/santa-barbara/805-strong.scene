@@ -1,0 +1,24 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+There were boulders the size of tour busses
+    </title>
+
+    <description>
+Mary Jo volunteers with Habitat for Humanity to recover and possibly
+repair damaged homes in Montacito, California. She is sensitive to the
+residents and what they have lost, the most important things not being
+the furniture and other "hard" items but the memories.  She recalls
+finding an intact photo album and recounting as the owner sat down in
+tears, leafing through the pages of photos. to Mary Jo it is about
+community, where everyone knows somebody that knows somebody...
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/805-strong/805-strong.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/805-strong/805-strong_250.mp4" volume="0.7">
+  </video>
+
+</scene>

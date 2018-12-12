@@ -1,0 +1,26 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+It's the smallest things... the fire fighters wanted access to a restroom
+    </title>
+
+    <description>
+Patrick has lived in Montecito most of his life, growing up in his
+fathers deli, "Village Cheese and Wine."  He watched the Thomas fire,
+largest in California history through 2017, grow from a flicker to an
+entire mountain. Approximately three weeks after the Thomas fire,
+approximately half an inch of rain in fifteen minutes fell on the
+burned and glazed over Santa Ynez mountains above Santa Barbara and
+the village of Montecito, causing mud and boulders to flow down creeks
+and valleys into the village. Patrick opened up his deli to provide
+food and facilities for the first responders and community in general.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/feeding-responders/feeding-responders.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/feeding-responders/feeding-responders_250.mp4" volume="0.7">
+  </video>
+
+</scene>

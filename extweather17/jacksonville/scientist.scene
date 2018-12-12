@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Are there any ships going to be picking us up?
+    </title>
+
+    <description>
+One of the original computer coders for AT&T, starting in the 70's,
+Christine was stuck for 25 hours in traffic trying to return to
+Jacksonville after the storm.  She wonders whether anyone has figured
+out the evacuation plan for when an even bigger catastaphe hits
+the peninsula of Florida.
+    </description>
+
+    <sceneshot src="/extweather17/jacksonville/scientist/scientist.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/jacksonville/scientist/scientist_250.mp4" volume="0.7">
+  </video>
+
+</scene>

@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+The fires were unstoppable
+    </title>
+
+    <description>
+Tony's family lives in the same house that his Great Grandpa built
+when he homesteaded the farm on the Fort Peck Indian Reservation in
+1916.  The Montana extreme drought and fires of 2017 have been rough
+on the farms and ranches of his family and friends.  Two or three
+similar years would likely lead to a lot of the farms going up for
+sale, depending on how well they got along with their bankers.
+    </description>
+
+    <sceneshot src="/extweather17/montana/fort-peck/fort-peck.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/montana/fort-peck/fort-peck_250.mp4" volume="0.7">
+  </video>
+
+</scene>

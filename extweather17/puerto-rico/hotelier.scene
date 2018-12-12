@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Maria wasn't what we thought it would be
+    </title>
+
+    <description>
+Janice was in Humacao, Puerto Rico when Hurricane Maria hit.  She was
+trapped there with no way to communicate or reach her family or anyone
+else in her home town of Yabuccoa, normally a 15-minute drive away.
+After finding her way back two days later, she reunited first with her
+grandparents, with a mixture of emotions, from great relief to
+overwhelming sadness at what had become of her town.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/hotelier/hotelier.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/hotelier/hotelier_250.mp4" volume="0.7">
+  </video>
+
+</scene>

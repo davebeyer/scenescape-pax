@@ -1,0 +1,25 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+All that was left were the basement walls
+    </title>
+
+    <description>
+Tyson and his family live within view of Interstate 55 in Perryville,
+Missouri.  On the side he runs an automotive restoration business and
+had 40 to 50 cars and trucks on his property when an EF4 tornado
+ripped through his neighborhood on the 28th of Februrary, 2017.  The
+180 mile-per-hour winds tossed many of the cars down onto the
+interstate, initially causing a huge emergency response until they
+realized that most of the cars were empty (although sadly, one person
+was killed).
+    </description>
+
+    <sceneshot src="/extweather17/perryville/auto-lot/auto-lot.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/perryville/auto-lot/auto-lot_250.mp4" volume="0.7">
+  </video>
+
+</scene>

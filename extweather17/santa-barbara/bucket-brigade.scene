@@ -1,0 +1,26 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+When you've lost everything, if you can find anything, that's a game changer
+    </title>
+
+    <description>
+Abe, a life-long resident and a director of the local fire protection
+district, was at home and nearby but a safe distance from the
+Montecito mudslide and debris flow that followed California's "Thomas"
+fire.  Many people he knew were not so lucky. He and his wife sat
+around their kitchen table wondering what they could do to support
+others. What began as a favor to help a friend dig out from many feet
+of mud, turned out to be the beginning of the "Bucket Brigade," a
+non-profit organization of several hundred volunteers that dug out and
+removed mud from homes inundated during the Montecito debris flow.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/bucket-brigade/bucket-brigade.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/bucket-brigade/bucket-brigade_250.mp4" volume="0.7">
+  </video>
+
+</scene>

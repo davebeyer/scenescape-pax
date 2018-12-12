@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+The flooding caught a lot of people with their pants down
+    </title>
+
+    <description>
+A 7-year resident of Jacksonville, Shawn has been a manager at the
+Pizza Hut on San Marco Boulevard for the past 4 years.  The Pizza Hut
+is a couple blocks from St. Johns River which flooded many feet over
+its banks during Hurriaine Irma.  He was at his store until the day of
+the storm serving free pizza to the police and emergency services
+preparing for the storm.
+    </description>
+
+    <sceneshot src="/extweather17/jacksonville/pizza-manager/pizza-manager.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/jacksonville/pizza-manager/pizza-manager_250.mp4" volume="0.7">
+  </video>
+
+</scene>

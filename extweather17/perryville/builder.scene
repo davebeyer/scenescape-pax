@@ -1,0 +1,22 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+They found my yearbook 57 miles away
+    </title>
+
+    <description>
+Tim has lived in Perryville, Missouri since he was born.  Tim's family
+of five were all home when the tornado came through their
+neighborhood, and all survived, including their "soup hound," by
+hiding out in the basement as the tornado swept their house away
+above.
+    </description>
+
+    <sceneshot src="/extweather17/perryville/builder/builder.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/perryville/builder/builder_250.mp4" volume="0.7">
+  </video>
+
+</scene>

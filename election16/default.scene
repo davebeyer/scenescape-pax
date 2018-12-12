@@ -60,7 +60,8 @@
         don't forget the Facebook Like and Share buttons above.  Also, 
         you can always reach us at
         <a href="mailto:pax.muster@gmail.com" target="_blank">pax.muster@gmail.com</a>, and
-        can follow us on <a href="https://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>
+        can follow us on <a href="https://www.facebook.com/americaatthecrossroads" target="_blank">Facebook</a>,
+        <a href="https://www.youtube.com/channel/UCRDN9xCLL-r2Phk0z7orCNA" target="_blank">YouTube</a>,
         and <a href="https://www.instagram.com/pax.gallery" target="_blank">Instagram</a>.
       </p>
 
@@ -74,5 +75,6 @@
     </introduction>
 
   </sceneprops>
+
   {% insert t_scenelisting() %}
 </scene>

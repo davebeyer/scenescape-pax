@@ -1,0 +1,21 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+When there's a disaster, as carpenters we see money
+    </title>
+
+    <description>
+Ruben is part of a crew assigned to rebuilding bridges in the
+Montecito/Santa Barbara area following a devastating mudslide and
+debris flow that occurred in January of 2018. He voices amazement at
+the destruction he has seen in Montecito.
+    </description>
+
+    <sceneshot src="/extweather17/santa-barbara/bridge-rebuilder/bridge-rebuilder.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/santa-barbara/bridge-rebuilder/bridge-rebuilder_250.mp4" volume="0.7">
+  </video>
+
+</scene>

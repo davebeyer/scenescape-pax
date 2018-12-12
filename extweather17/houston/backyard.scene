@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+600 of the 800 houses in our neighborhood flooded
+    </title>
+
+    <description>
+We met with Barbara in the backyard of her home, still in the midst of
+repairs, eight months after the floods from Hurricane Harvey left a
+trail of destruction through Houston, Texas.  She shared a few of the
+never-ending list of challenges and "flood brain" weariness in trying
+to recover from an event like this, from rescuing your cat, to chasing
+down your mail, to selecting new door knobs.
+    </description>
+
+    <sceneshot src="/extweather17/houston/backyard/backyard.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/houston/backyard/backyard_250.mp4" volume="0.7">
+  </video>
+
+</scene>

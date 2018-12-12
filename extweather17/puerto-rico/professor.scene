@@ -1,0 +1,24 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+It lasted about two months, the crying
+    </title>
+
+    <description>
+Noel is a part-time professor at Inter-American University in the
+southern Puerto Rican town of Ponce.  He recalls Hurricane Georges
+that hit Puerto Rico in 1998 and left his family without electricity
+and power for over a month and a half.  However, the experience with
+Hurricane Maria in his central town of Utuado was twice as bad,
+leaving his town without basic utilities for 5 months.  His family and
+friends are still coping with the psychological trauma.
+    </description>
+
+    <sceneshot src="/extweather17/puerto-rico/professor/professor.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/puerto-rico/professor/professor_250.mp4" volume="0.7">
+  </video>
+
+</scene>

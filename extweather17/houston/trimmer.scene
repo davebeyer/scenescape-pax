@@ -1,0 +1,23 @@
+<scene>
+  <sceneprops>
+
+    <title> 
+Sewer water, bayou water, it was nasty stuff
+    </title>
+
+    <description>
+We met Tonie in the front yard of her home in the Nottingham Forest
+neighborhood of Houston, Texas.  On the morning before the major flood
+hit their neighborhood, a number of her neighbors came over to enjoy a
+pancake breakfast and discuss what they were going to do.  One by one,
+as they watched the waters rise during the day, they decided they'd
+better go.
+    </description>
+
+    <sceneshot src="/extweather17/houston/trimmer/trimmer.sma.jpg" />
+  </sceneprops>
+
+  <video src="/extweather17/houston/trimmer/trimmer_250.mp4" volume="0.7">
+  </video>
+
+</scene>
