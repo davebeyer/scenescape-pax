@@ -6,9 +6,8 @@
 
     <sceneshot src="/general/extweather17.sma.jpg"/>
 
-    <!--
-    <scenevideo src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Famericaatthecrossroads%2Fvideos%2F249043685715131%2F&amp;width=500&amp;show_text=false&amp;appId=552828451829235&amp;mute=0" />
-      -->
+    <scenevideo src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Famericaatthecrossroads%2Fvideos%2F425869654616816%2F&amp;width=500&amp;show_text=false&amp;appId=552828451829235&amp;height=280"/>
+    <scenecomments src="https://www.facebook.com/americaatthecrossroads/videos/425869654616816/" />
 
     <description>
       We visit the places, from Montana to Texas, California to Puerto
