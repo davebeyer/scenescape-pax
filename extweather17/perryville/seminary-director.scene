@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>50</priority>
 
     <title> 
 When the train comes you respect the train

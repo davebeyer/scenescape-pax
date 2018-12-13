@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>60</priority>
 
     <title> 
 We can't do another year like this

@@ -2,6 +2,7 @@
        video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
 
   <sceneprops>
+    <priority>70</priority>
     <title>I feel that the corporate elites are trying to overpopulate our nation with the illegal immigrants</title>
     <description>
        West Walker is a teacher from Tracy, California and the State

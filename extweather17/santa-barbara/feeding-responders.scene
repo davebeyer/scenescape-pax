@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>50</priority>
 
     <title> 
 It's the smallest things... the fire fighters wanted access to a restroom

@@ -1,6 +1,7 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
 
   <sceneprops>
+    <priority>80</priority>
     <title>
       Running the country isn't like running a casino
     </title>

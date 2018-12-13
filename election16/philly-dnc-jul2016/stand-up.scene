@@ -1,6 +1,7 @@
 <scene>
 
   <sceneprops>
+    <priority>80</priority>
     <title>
       I hope people realize really soon what's at stake in this election
     </title>

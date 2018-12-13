@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>60</priority>
 
     <title> 
       Not spirtually ready for a woman president

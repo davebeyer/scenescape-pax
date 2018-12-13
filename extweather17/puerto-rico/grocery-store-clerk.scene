@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>40</priority>
 
     <title> 
 Our house was concrete, and shaking like an earthquake

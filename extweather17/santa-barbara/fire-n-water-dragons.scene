@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>60</priority>
 
     <title> 
 I started running yelling 'flash flood, flash flood'

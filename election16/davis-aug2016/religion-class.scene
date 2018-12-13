@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>60</priority>
     <title> 
       There's more to life than just living
     </title>

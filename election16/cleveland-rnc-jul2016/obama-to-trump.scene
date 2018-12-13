@@ -1,6 +1,7 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
 
   <sceneprops>
+    <priority>70</priority>
     <title>
       Donald Trump speaks his mind, and if you can't accept it, don't vote for him
     </title>

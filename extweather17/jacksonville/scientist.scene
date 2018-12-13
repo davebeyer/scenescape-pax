@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>30</priority>
 
     <title> 
 Are there any ships going to be picking us up?

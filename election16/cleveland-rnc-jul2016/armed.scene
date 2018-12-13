@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>50</priority>
     <title> Without all the guns, the country would already be history </title>
     <description>
       We met Joey Gibson, a cleaned-up former felon and libertarian

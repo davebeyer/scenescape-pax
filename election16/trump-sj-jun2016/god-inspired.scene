@@ -1,6 +1,7 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
 
   <sceneprops>
+    <priority>70</priority>
     <title>I believe that Trump was sent by the Holy Spirit to save our country</title>
     <description>
       Jason is a Donald Trump supporter who we met at the Trump rally

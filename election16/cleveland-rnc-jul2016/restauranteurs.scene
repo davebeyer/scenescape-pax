@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.2)" video-effect="crossfade(.2)">
   <sceneprops>
+    <priority>60</priority>
     <title> When I was 11 years old, I drew a picture of him as my future husband </title>
     <description>
       Jeffrey and Peaches, originally from Jamaica, now live in 

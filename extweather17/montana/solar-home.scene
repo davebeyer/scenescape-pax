@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>50</priority>
 
     <title> 
 When I was growing up, we never had tornadoes 

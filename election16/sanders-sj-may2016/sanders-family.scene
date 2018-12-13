@@ -2,6 +2,7 @@
        video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
 
   <sceneprops>
+    <priority>70</priority>
     <title>Trillions for war while crumbling at home, if you're not angry then you're not paying attention</title>
     <description>
       A Corporate Recruiter from San Jose, Ben

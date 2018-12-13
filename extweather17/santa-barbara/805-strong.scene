@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>30</priority>
 
     <title> 
 There were boulders the size of tour busses

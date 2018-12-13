@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>50</priority>
 
     <title> 
 The flooding caught a lot of people with their pants down

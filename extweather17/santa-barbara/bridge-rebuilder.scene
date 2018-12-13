@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>50</priority>
 
     <title> 
 When there's a disaster, as carpenters we see money

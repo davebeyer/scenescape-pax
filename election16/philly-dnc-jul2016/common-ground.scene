@@ -1,6 +1,7 @@
 <scene photo-effect="crossfade(.2)" video-effect="crossfade(.2)">
 
   <sceneprops>
+    <priority>60</priority>
     <title>
       With all the loud yelling, we wanted a space for loud listening
     </title>

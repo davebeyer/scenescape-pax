@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>30</priority>
 
     <title> 
 When a tree comes through the side of a house, all normal construction timelines are thrown out the window

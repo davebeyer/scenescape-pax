@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>80</priority>
 
     <title> 
 Swimming in the pool on Christmas Day

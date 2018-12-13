@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>40</priority>
 
     <title> 
 I found an ID card of a person who had died, so I sent it to a surviving family member

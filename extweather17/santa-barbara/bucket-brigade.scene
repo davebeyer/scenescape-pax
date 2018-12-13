@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>60</priority>
 
     <title> 
 When you've lost everything, if you can find anything, that's a game changer

@@ -2,6 +2,7 @@
        video-effect="fadeIn(.5); e-.5:fadeOut(0.5)">
 
   <sceneprops>
+    <priority>70</priority>
     <title>The attacks are becoming very personal ... a bully is always a coward</title>
     <description>
       Oscar Munoz, originally from Honduras, lives in South San Francisco.  

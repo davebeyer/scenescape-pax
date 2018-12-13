@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>70</priority>
     <title> 
       The anger is justified, but immigrants and Muslims aren't the problem  
     </title>

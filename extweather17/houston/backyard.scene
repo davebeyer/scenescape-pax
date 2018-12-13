@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>70</priority>
 
     <title> 
 600 of the 800 houses in our neighborhood flooded

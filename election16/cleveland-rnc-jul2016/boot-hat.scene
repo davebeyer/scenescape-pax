@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>70</priority>
     <title> Vermin Supreme is running for President </title>
 
     <description>

@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>30</priority>
 
     <title> 
 Sewer water, bayou water, it was nasty stuff

@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>70</priority>
 
     <title> 
 All that was left were the basement walls

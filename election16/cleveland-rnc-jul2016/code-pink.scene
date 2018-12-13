@@ -1,5 +1,6 @@
 <scene photo-effect="crossfade(.5)" video-effect="crossfade(.5)">
   <sceneprops>
+    <priority>70</priority>
     <title> 500 illegal tennis balls </title>
     <description>
       Chelsea Byers from Los Angeles helped organize Code Pink's Woman

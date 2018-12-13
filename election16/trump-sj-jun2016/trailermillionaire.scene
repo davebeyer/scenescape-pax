@@ -1,6 +1,7 @@
 <scene photo-effect="fadeIn(0.5);e:fadeOut(2.0)">    <!-- hack while video bleeds in photo-photo transitions -->
 
   <sceneprops>
+    <priority>40</priority>
     <title> I pay my taxes, they can pay their taxes </title>
     <description>
       Originally from Gary, Indiana, Paul is an engineer in the California semiconductor industry,

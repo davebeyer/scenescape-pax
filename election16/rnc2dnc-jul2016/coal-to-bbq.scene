@@ -1,6 +1,7 @@
 <scene photo-effect="crossfade(1.0)" video-effect="crossfade(1.0)">
 
   <sceneprops>
+    <priority>80</priority>
     <title>Proof that anything can happen anywhere at anytime</title>
     <description>
       After 33 years underground mining coal, mostly on

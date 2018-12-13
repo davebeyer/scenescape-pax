@@ -1,5 +1,6 @@
 <scene>
   <sceneprops>
+    <priority>40</priority>
 
     <title> 
 You didn't want to fart in the woods, 'cause that would have started a fire
